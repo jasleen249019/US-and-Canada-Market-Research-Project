@@ -1,0 +1,836 @@
+location,positionName,minimum salary,maximum salary, average salary ,searchInput/country,searchInput/position,city name,salary_status
+"San Bruno,CA","Senior Data Scientist, Research, YouTube Search","1,66,600",," $2,44,000.00 ",United States of America,Data Scientist,San Bruno,Available
+"Milwaukee, WI 53214",Senior AI Engineer - Data Scientist,"1,12,000","1,54,000"," $1,33,000.00 ",United States of America,Data Scientist,Milwaukee,Available
+"Redmond, WA","Audio Software Engineer, Applied Scientist",70.67,," $1,46,993.60 ",United States of America,Data Scientist,Redmond,Available
+"Bellevue, WA 98005","Software Engineer, Machine Learning","2,03,350","2,40,240"," $2,21,795.00 ",United States of America,Data Scientist,Bellevue,Available
+"Shelton, CT 06484",AI / Machine Learning Research Engineer (early career),,,,United States of America,Data Scientist,Shelton,Missing
+"Cambridge, MA","Staff Data Scientist, Research, Search Platforms","1,97,000","2,91,000"," $2,44,000.00 ",United States of America,Data Scientist,Cambridge,Available
+"Jacksonville, FL 32256","Applied AI/ML, Senior Associate - Gen AI & LLM","1,28,250","1,95,000"," $1,61,625.00 ",United States of America,Data Scientist,Jacksonville,Available
+"San Francisco, CA 94108","Executive Director, ML and Ad Marketplace","2,93,755.64","4,59,791.43"," $3,76,774.00 ",United States of America,Data Scientist,San Francisco,Available
+"Beavercreek, OH 45431",AI/ML Engineer,"70,000","1,20,000"," $95,000.00 ",United States of America,Data Scientist,Beavercreek,Available
+"Rochester, MN 55901",Senior Software Engineer - AI/ML,"1,38,257.60","2,00,512.00"," $1,69,385.00 ",United States of America,Data Scientist,Rochester,Available
+"San Francisco, CA","Staff Fullstack Software Engineer, AI Document Generation",,,,United States of America,Data Scientist,San Francisco,Missing
+"Phoenix, AZ 85027",Machine Learning Data Acquisition Scientist (Ph.D.),,,,United States of America,Data Scientist,Phoenix,Missing
+"Bellevue, WA 98005","Research Engineer, Speech & Language - Generative AI",85.1,," $1,77,008.00 ",United States of America,Data Scientist,Bellevue,Available
+"Fort Worth, TX 76102",Sustainment Digital Tools & Engineering AI/ML Engineer Sr,,,,United States of America,Data Scientist,Fort Worth,Missing
+"Fort Worth, TX 76102",Applied AI Architect,,,,United States of America,Data Scientist,Fort Worth,Missing
+"Rochester, MN 55901",Senior Data Science Analyst - Remote,"1,22,990.40","1,84,579.20"," $1,53,785.00 ",United States of America,Data Scientist,Rochester,Available
+"Atlanta, GA 30339",Senior Data Analyst - Assortment Analytics,,,,United States of America,Data Scientist,Atlanta,Missing
+"Atlanta, GA 30339","Data Scientist, RPA",,,,United States of America,Data Scientist,Atlanta,Missing
+"Herndon, VA",Part-Time AI Software Engineer Sr,,,,United States of America,Data Scientist,Herndon,Missing
+"Boston, MA",Machine Learning Scientist,,,,United States of America,Data Scientist,Boston,Missing
+"Bethesda, MD 20814",Data Scientist - Top Secret/SCI,,,,United States of America,Data Scientist,Bethesda,Missing
+"Herndon, VA",Senior AI/ML SW & Sys Architect,,,,United States of America,Data Scientist,Herndon,Missing
+"San Diego, CA",Machine Learning Scientist II/Sr (Biomedical Images),"1,52,000","2,15,000"," $1,83,500.00 ",United States of America,Data Scientist,San Diego,Available
+Remote,Data Scientist,"1,35,803.23","1,75,483.45"," $1,55,643.00 ",United States of America,Data Scientist,Remote,Available
+"Hyattsville, MD 20785",Lead Data Scientist (AI/ML),,,,United States of America,Data Scientist,Hyattsville,Missing
+"Vienna, VA 22182",Data Scientist III,,,,United States of America,Data Scientist,Vienna,Missing
+"New York, NY",Senior Data Scientist,"74,000","1,35,000"," $1,04,500.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY",AI Operations Specialist - Healthcare,"60,000","75,000"," $67,500.00 ",United States of America,Data Scientist,New York,Available
+"Sterling, VA 20166",Senior Data Science Engineer (Onsite),"90,000","1,82,000"," $1,36,000.00 ",United States of America,Data Scientist,Sterling,Available
+"North Reading, MA 01864","Data Scientist-Robotics, Performance & Insights",,,,United States of America,Data Scientist,North Reading,Missing
+"New York, NY",Machine Learning Engineer,"1,50,000","1,90,000"," $1,70,000.00 ",United States of America,Data Scientist,New York,Available
+"San Antonio, TX 78204","Data Literacy Lead-Data Solutions (San Antonio, Austin and Dallas)",,,,United States of America,Data Scientist,San Antonio,Missing
+"Annapolis Junction, MD 20701",Artificial Intelligence Machine Learning 3- TS/SCI w/poly clearance required,,,,United States of America,Data Scientist,Annapolis Junction,Missing
+Remote,AI developer advisor,,,,United States of America,Data Scientist,Remote,Missing
+"New York, NY","AI Researcher, Handshake AI","1,80,000","3,00,000"," $2,40,000.00 ",United States of America,Data Scientist,New York,Available
+"San Francisco, CA","Prompt Engineer, Handshake AI","1,20,000","1,65,000"," $1,42,500.00 ",United States of America,Data Scientist,San Francisco,Available
+"San Francisco, CA","Staff Backend Software Engineer, AI Document Generation",,,,United States of America,Data Scientist,San Francisco,Missing
+"Mountain View, CA","Senior Software Engineer, Machine Learning, Infra & Eval","2,04,000","2,59,000"," $2,31,500.00 ",United States of America,Data Scientist,Mountain View,Available
+"Mountain View, CA","Lead Data Scientist, Research, Multimodal Search","1,97,000","2,91,000"," $2,44,000.00 ",United States of America,Data Scientist,Mountain View,Available
+United States,Palantir Data Scientist,,,,United States of America,Data Scientist,United States,Missing
+"Bentonville, AR 72716","(USA) Senior Manager, Data Science","1,10,000","2,20,000"," $1,65,000.00 ",United States of America,Data Scientist,Bentonville,Available
+"Santa Clara, CA 94085","Language Data Scientist III , AWS Q for Business","1,43,300","2,47,600"," $1,95,450.00 ",United States of America,Data Scientist,Santa Clara,Available
+"Annapolis Junction, MD 20701",Data Scientist 3 - TS/SCI w/poly clearance required,,,,United States of America,Data Scientist,Annapolis Junction,Missing
+"Seattle, WA","Sr Software Dev Engineer, AI, Storm Design System","1,51,300","2,61,500"," $2,06,400.00 ",United States of America,Data Scientist,Seattle,Available
+United States,Mid-Level Data Scientist / Quant - Risk & Trading,90,," $1,87,200.00 ",United States of America,Data Scientist,United States,Available
+Remote,Cyber Defense – Mid-Level Data Scientist/Analyst (AI/Automation),,,,United States of America,Data Scientist,Remote,Missing
+"New York, NY","Research Engineer, Handshake AI","1,80,000","3,00,000"," $2,40,000.00 ",United States of America,Data Scientist,New York,Available
+"Tempe, AZ 85281",AI & Data Manager - Life Sciences R&D (CMC),"1,30,800","2,41,000"," $1,85,900.00 ",United States of America,Data Scientist,Tempe,Available
+"Henderson, NV",Data Scientist,"1,52,500","1,67,750"," $1,60,125.00 ",United States of America,Data Scientist,Henderson,Available
+"Sunnyvale, CA 94089","Staff, Data Scientist","1,43,000","2,86,000"," $2,14,500.00 ",United States of America,Data Scientist,Sunnyvale,Available
+Remote,Data Analyst Senior or Lead,"79,200","1,27,700"," $1,03,450.00 ",United States of America,Data Scientist,Remote,Available
+"New York, NY","Prompt Engineer, Handshake AI","1,20,000","1,65,000"," $1,42,500.00 ",United States of America,Data Scientist,New York,Available
+"San Diego, CA",Machine Learning Scientist II/Sr (Omics),"1,52,000","2,15,000"," $1,83,500.00 ",United States of America,Data Scientist,San Diego,Available
+"Sunnyvale, CA","Software Engineering Manager II, AI/ML, Google Workspace","1,97,000","2,91,000"," $2,44,000.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Nashville, TN 37203",AI & Data Manager - Life Sciences R&D (CMC),"1,30,800","2,41,000"," $1,85,900.00 ",United States of America,Data Scientist,Nashville,Available
+"Irving, TX",GenAI Technology Lead - (Hybrid),"1,56,160","2,34,240"," $1,95,200.00 ",United States of America,Data Scientist,Irving,Available
+"McLean, VA 22102",Data Scientist (Predictive),"1,40,000","1,90,000"," $1,65,000.00 ",United States of America,Data Scientist,McLean,Available
+"Ridgefield, CT 06877",Senior Clinical Data Scientist,,,,United States of America,Data Scientist,Ridgefield,Missing
+"New York, NY",Azure AI Security Senior Consultant,"1,18,700","2,18,600"," $1,68,650.00 ",United States of America,Data Scientist,New York,Available
+"Chicago, IL 60601",Head of Data & AI,"1,10,000","1,40,000"," $1,25,000.00 ",United States of America,Data Scientist,Chicago,Available
+"Arlington, VA","Senior Delivery Consultant- GenAI/ML, AWS, Industries","1,38,200","2,39,000"," $1,88,600.00 ",United States of America,Data Scientist,Arlington,Available
+Remote,"Analyst, Talent Analytics (Machine Learning)","80,000","2,80,000"," $1,80,000.00 ",United States of America,Data Scientist,Remote,Available
+Wisconsin,AI Platform Engineer (Remote),"82,000","1,64,000"," $1,23,000.00 ",United States of America,Data Scientist,Wisconsin,Available
+"McLean, VA 22102",Data Scientist (Generative AI),"1,25,000","1,60,000"," $1,42,500.00 ",United States of America,Data Scientist,McLean,Available
+"Orlando, FL 32819","Data Scientist Analyst Stf / Orlando, FL",,,,United States of America,Data Scientist,Orlando,Missing
+New Jersey,Lead - Advanced Analytics,,,,United States of America,Data Scientist,New Jersey,Missing
+"New York, NY 10018",Senior/Lead Machine Learning Engineer,"   1,000 a day ",," $2,60,000.00 ",United States of America,Data Scientist,New York,Available
+"Santa Clara, CA 95050",Senior AI Workflow Engineer,"1,84,000","3,56,500"," $2,70,250.00 ",United States of America,Data Scientist,Santa Clara,Available
+"San Francisco, CA",Sr. Data Analyst,"1,43,900","2,15,800"," $1,79,850.00 ",United States of America,Data Scientist,San Francisco,Available
+"Philadelphia, PA 19103","Principal, AI Data Scientist (Remote)",,,,United States of America,Data Scientist,Philadelphia,Missing
+"Atlanta, GA",Principal Machine Learning Engineer,,,,United States of America,Data Scientist,Atlanta,Missing
+"Salt Lake City, UT 84103",Data Scientist Sr - Missionary Dept.,,,,United States of America,Data Scientist,Salt Lake City,Missing
+"Bethesda, MD",Staff AI Researcher,"2,15,000","2,30,000"," $2,22,500.00 ",United States of America,Data Scientist,Bethesda,Available
+"Huntsville, AL",Data Scientist Manager,,,,United States of America,Data Scientist,Huntsville,Missing
+"Portage, IN 46368",Data Scientist Quality Engineer,"86,907.87","1,46,142.27"," $1,16,525.00 ",United States of America,Data Scientist,Portage,Available
+"Greenwood Village, CO 80111",AI Developer,,,,United States of America,Data Scientist,Greenwood Village,Missing
+"New York, NY 10018",Senior Customer Data Analyst,"1,26,000","1,58,000"," $1,42,000.00 ",United States of America,Data Scientist,New York,Available
+"Atlanta, GA",Principal Data Scientist,"1,60,900","2,70,400"," $2,15,650.00 ",United States of America,Data Scientist,Atlanta,Available
+"New York, NY",Machine Learning Software Engineering Manager,"2,13,000","2,93,000"," $2,53,000.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY 10003",Product Analyst - GenAI,"85,000","1,00,000"," $92,500.00 ",United States of America,Data Scientist,New York,Available
+"San Francisco, CA","Sr. Data Scientist, ART19","1,43,300","2,47,600"," $1,95,450.00 ",United States of America,Data Scientist,San Francisco,Available
+"San Francisco, CA","Sr. Data Scientist, ART19","1,43,300","2,47,600"," $1,95,450.00 ",United States of America,Data Scientist,San Francisco,Available
+"San Diego, CA","Applied Scientist I, Buyer Abuse Prevention","1,29,400","2,12,800"," $1,71,100.00 ",United States of America,Data Scientist,San Diego,Available
+Remote,Decision Scientist,"90,000","1,20,000"," $1,05,000.00 ",United States of America,Data Scientist,Remote,Available
+Remote,ML Engineer,60,70," $1,35,200.00 ",United States of America,Data Scientist,Remote,Available
+"Austin, TX 78701",Senior Data Processing Platform Engineer,"1,48,000","2,87,500"," $2,17,750.00 ",United States of America,Data Scientist,Austin,Available
+"Menlo Park, CA",Head of AI Solutions,"2,43,000","3,79,500"," $3,11,250.00 ",United States of America,Data Scientist,Menlo Park,Available
+"New York, NY","Software Development Engineer II, Measurement, Ad Tech, and Data Science (MADS)","1,29,300","2,23,600"," $1,76,450.00 ",United States of America,Data Scientist,New York,Available
+North Carolina,"Manager, Machine Learning Operations",,,,United States of America,Data Scientist,North Carolina,Missing
+"Huntsville, AL",Data Consultant,,,,United States of America,Data Scientist,Huntsville,Missing
+"Fort Meade, MD",Data Scientist,,,,United States of America,Data Scientist,Fort Meade,Missing
+"Charlotte, NC 28217",Data Scientist,,,,United States of America,Data Scientist,Charlotte,Missing
+"San Diego, CA","Applied Scientist I, Buyer Abuse Prevention","1,29,400","2,12,800"," $1,71,100.00 ",United States of America,Data Scientist,San Diego,Available
+"Bellevue, WA","Software Engineer, Machine Learning â€“ Engineering Systems and AI Research","1,57,000","2,30,000"," $1,93,500.00 ",United States of America,Data Scientist,Bellevue,Available
+"Baltimore, MD 21201",RESEARCH STATISTICIAN III,"60,987","79,364"," $70,176.00 ",United States of America,Data Scientist,Baltimore,Available
+"Atlanta, GA","Co-op, Flight Operations Crew Resources - Pilot Pay Experience & Analytics (Fall 2025)",,,,United States of America,Data Scientist,Atlanta,Missing
+"Spring House, PA","Principal Portfolio Lead, Statistical Programming - Oncology","1,15,000","1,97,800"," $1,56,400.00 ",United States of America,Data Scientist,Spring House,Available
+"San Jose, CA",Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD),"1,45,000","2,50,000"," $1,97,500.00 ",United States of America,Data Scientist,San Jose,Available
+"Purvis, MS 39475",Data Scientist,"80,000","95,000"," $87,500.00 ",United States of America,Data Scientist,Purvis,Available
+"Arlington, VA 22203",AI ML Engineer (Senior),"1,50,000",," $1,50,000.00 ",United States of America,Data Scientist,Arlington,Available
+"Seattle, WA 98107",AI Infrastructure Engineer,127,," $2,64,160.00 ",United States of America,Data Scientist,Seattle,Available
+Remote,AI (Artificial Intelligence) Engineer,"1,20,000","1,60,000"," $1,40,000.00 ",United States of America,Data Scientist,Remote,Available
+"Annapolis Junction, MD 20701","Data Scientist, Lead",84.14,96.16, $90.00 ,United States of America,Data Scientist,Annapolis Junction,Available
+"Bothell, WA","Senior Manager, Data Science & Analytics","1,20,800","2,01,400"," $1,61,100.00 ",United States of America,Data Scientist,Bothell,Available
+"Palo Alto, CA 94303","Associate Director, AI Data Scientist",,,,United States of America,Data Scientist,Palo Alto,Missing
+"Chantilly, VA",Data Scientist Virginia,,,,United States of America,Data Scientist,Chantilly,Missing
+"Lake Forest, IL",SENIOR WEBSITE DATA ANALYST,48,50," $1,01,920.00 ",United States of America,Data Scientist,Lake Forest,Available
+"Fort Worth, TX 76102",Azure AI Security Senior Consultant,"1,18,700","2,18,600"," $1,68,650.00 ",United States of America,Data Scientist,Fort Worth,Available
+"Dallas, TX",Principal Data Scientist,"1,60,900","2,70,400"," $2,15,650.00 ",United States of America,Data Scientist,Dallas,Available
+"New York, NY",Senior Data Analyst,"95,000","1,05,000"," $1,00,000.00 ",United States of America,Data Scientist,New York,Available
+"North Reading, MA 01864",Amazon Robotics - Data Scientist Co-op - 2025,,,,United States of America,Data Scientist,North Reading,Missing
+"Jacksonville, FL","Applied AI/ML, Senior Associate - Gen AI & LLM",,,,United States of America,Data Scientist,Jacksonville,Missing
+"Santa Clara, CA 95050",Senior Data Scientist - Finance,"1,68,000","3,22,000"," $2,45,000.00 ",United States of America,Data Scientist,Santa Clara,Available
+"Philadelphia, PA",Senior Data & AI Engineer - Knowledge Graphs & GCP,,,,United States of America,Data Scientist,Philadelphia,Missing
+"Plano, TX 75024",Applied AI/ML - Vice President,,,,United States of America,Data Scientist,Plano,Missing
+"Plano, TX",Machine Learning Engineer - Vice President,,,,United States of America,Data Scientist,Plano,Missing
+"Arlington, VA","Deep Learning Architect, Generative AI Innovation Center","1,18,200","2,04,300"," $1,61,250.00 ",United States of America,Data Scientist,Arlington,Available
+"Plano, TX 75024",Machine Learning Engineer - Vice President,"1,64,350","2,60,000"," $2,12,175.00 ",United States of America,Data Scientist,Plano,Available
+"New York, NY","Senior Applied Scientist, Agentic AI Professional Services Experience","1,50,400","2,60,000"," $2,05,200.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY 10003",Senior Business/Data Analyst,"1,03,330","1,28,656"," $1,15,993.00 ",United States of America,Data Scientist,New York,Available
+"Silver Spring, MD",Lead Data Scientist & Deputy Program Manager,,,,United States of America,Data Scientist,Silver Spring,Missing
+"Princeton, NJ","Associate Director, Analytical AI Forecasting and Predictive Solutions","1,67,540","2,03,000"," $1,85,270.00 ",United States of America,Data Scientist,Princeton,Available
+"Chantilly, VA 20151",Data Visualization Subject Matter Expert (SME),"90,300","1,89,600"," $1,39,950.00 ",United States of America,Data Scientist,Chantilly,Available
+Remote,Full Stack AI Engineer - Senior Consultant II,"85,600","1,52,650"," $1,19,125.00 ",United States of America,Data Scientist,Remote,Available
+"New York, NY 10038",Senior Data Analyst,"1,16,000","1,62,100"," $1,39,050.00 ",United States of America,Data Scientist,New York,Available
+Remote,"Senior Data Scientist, Servicing","1,46,000","1,70,000"," $1,58,000.00 ",United States of America,Data Scientist,Remote,Available
+"New York, NY","Senior Applied Scientist, Geographic Targeting","1,50,400","2,60,000",,United States of America,Data Scientist,New York,Available
+"West Des Moines, IA 50265",AI Data Engineer - On-site or Hybrid Opportunity,,,,United States of America,Data Scientist,West Des Moines,Missing
+"Corona, CA 92879",AI Solutions Architect,"1,08,750","1,45,000"," $1,26,875.00 ",United States of America,Data Scientist,Corona,Available
+"Raleigh, NC 27519",Director of Data Platform and AI - Hybrid or Remote Opportunity,"1,60,000","1,90,000"," $1,75,000.00 ",United States of America,Data Scientist,Raleigh,Available
+"Milpitas, CA",Senior Data Analyst,"1,15,000","1,70,000"," $1,42,500.00 ",United States of America,Data Scientist,Milpitas,Available
+"New York, NY","Vice President, Data Science","1,63,210","2,34,570"," $1,98,890.00 ",United States of America,Data Scientist,New York,Available
+"Sunnyvale, CA 94086","(USA) Senior, Software Engineer (Machine Learning)","1,17,000","2,34,000"," $1,75,500.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"St. Louis, MO",IT - Clinical Informaticist - Product Development,61.24,64," $1,31,040.00 ",United States of America,Data Scientist,St. Louis,Available
+"Charlotte, NC 28277",Gen AI Engineer (contract),,,,United States of America,Data Scientist,Charlotte,Missing
+"Arlington, VA","Deep Learning Architect, Generative AI Innovation Center","1,18,200","2,04,300"," $1,61,250.00 ",United States of America,Data Scientist,Arlington,Available
+"Cupertino, CA","Machine Learning Engineer, Siri Conversation Intelligence","1,75,800","3,12,200"," $2,44,000.00 ",United States of America,Data Scientist,Cupertino,Available
+"Titusville, FL","Manager, R&D Data Science and Digital Health (DSDH) Immunology","1,15,000","1,97,800"," $1,56,400.00 ",United States of America,Data Scientist,Titusville,Available
+United States,"Director, Data Science & Analytics Products",,,,United States of America,Data Scientist,United States,Missing
+"Atlanta, GA 30305",AI Developer,,,,United States of America,Data Scientist,Atlanta,Missing
+"New York, NY 10017",Machine Learning Scientist,"1,48,100","2,44,400"," $1,96,250.00 ",United States of America,Data Scientist,New York,Available
+Remote,"Senior Machine Learning Engineer, Caper","1,69,000","2,26,000"," $1,97,500.00 ",United States of America,Data Scientist,Remote,Available
+"Iselin, NJ 08830",Lead AI/ML Engineer,"1,26,400","2,62,600"," $1,94,500.00 ",United States of America,Data Scientist,Iselin,Available
+"Lexington, MA 02421",AI/ML Engineer for Human Factors,"97,688","1,62,813"," $1,30,251.00 ",United States of America,Data Scientist,Lexington,Available
+"San Francisco, CA",Early Career Machine Learning Engineer,,,,United States of America,Data Scientist,San Francisco,Missing
+"Dayton, OH 45402",AI Architect - Information Technology," From   112,144   ",," $1,12,144.00 ",United States of America,Data Scientist,Dayton,Available
+"New York, NY",Artificial Intelligence Solutions Consultant - Conversational Architect,"96,600","2,06,100"," $1,51,350.00 ",United States of America,Data Scientist,New York,Available
+"Seattle, WA 98105","Manager, Data Science - System Intelligence and Machine Learning, ISE","1,81,000","3,13,000"," $2,47,000.00 ",United States of America,Data Scientist,Seattle,Available
+"Austin, TX 78746","Machine Learning Hardware Performance Engineer, Self-Driving Hardware",,,,United States of America,Data Scientist,Austin,Missing
+"Chicago, IL",Lead Engineer Data Ops,"1,14,665","1,56,310"," $1,35,488.00 ",United States of America,Data Scientist,Chicago,Available
+"Austin, TX 78701",Senior Data Science Engineer,"92,700","1,85,400"," $1,39,050.00 ",United States of America,Data Scientist,Austin,Available
+Remote,"Principal Machine Learning Engineer, Ads Quality","3,08,000","3,72,000"," $3,40,000.00 ",United States of America,Data Scientist,Remote,Available
+"Newton, MA 02466",Principal Statistical Programmer,,,,United States of America,Data Scientist,Newton,Missing
+"Basking Ridge, NJ",Principal AI Scientist (Deep Learning Focus),"1,20,500","2,31,000"," $1,75,750.00 ",United States of America,Data Scientist,Basking Ridge,Available
+"San Diego, CA",Senior Machine Learning Engineer,"1,59,100","2,38,700"," $1,98,900.00 ",United States of America,Data Scientist,San Diego,Available
+"East Hanover, NJ 07936","AD, Emerging Data Products","1,32,300","2,45,700"," $1,89,000.00 ",United States of America,Data Scientist,East Hanover,Available
+"Cupertino, CA",Machine Learning Algorithm Validation Engineer,"1,36,300","2,48,700"," $1,92,500.00 ",United States of America,Data Scientist,Cupertino,Available
+"Columbia, MD",Senior Data Scientist,,,,United States of America,Data Scientist,Columbia,Missing
+"Buffalo, NY",Advanced Machine Learning Ops Engineer (Advanced Materials),"1,32,000","1,98,000"," $1,65,000.00 ",United States of America,Data Scientist,Buffalo,Available
+"Indianapolis, IN 46077",Evidence Lead (AI models),"1,31,100","2,43,500"," $1,87,300.00 ",United States of America,Data Scientist,Indianapolis,Available
+"Columbia, MD",Data Scientist,"2,10,000","2,60,000"," $2,35,000.00 ",United States of America,Data Scientist,Columbia,Available
+"Annapolis Junction, MD 20701","Artificial Intelligence/Machine Learning Engineer, Lead",84.14,96.16," $1,87,200.00 ",United States of America,Data Scientist,Annapolis Junction,Available
+"Arlington, VA","Senior Delivery Consultant- GenAI/ML, AWS, Industries","1,38,200","2,39,000"," $1,88,600.00 ",United States of America,Data Scientist,Arlington,Available
+"Charlotte, NC 28206",AI Engineer,,,,United States of America,Data Scientist,Charlotte,Missing
+"Oak Park, IL 60301",Gen AI Architect,,,,United States of America,Data Scientist,Oak Park,Missing
+"Foster City, CA",Data Scientist,"1,29,400","1,82,750"," $1,56,075.00 ",United States of America,Data Scientist,Foster City,Available
+"San Diego, CA","Principal Applied Scientist, Advertising General Intelligence","1,79,000","3,09,400"," $2,44,200.00 ",United States of America,Data Scientist,San Diego,Available
+"New York, NY","Senior Scientist, Shopping","1,83,000","2,03,000"," $1,93,000.00 ",United States of America,Data Scientist,New York,Available
+"Bala-Cynwyd, PA 19004",Sr Manager Data Science,,,,United States of America,Data Scientist,Bala-Cynwyd,Missing
+"Charlotte, NC",Artificial Intelligence Solutions Consultant - Conversational Architect,"96,600","2,06,100"," $1,51,350.00 ",United States of America,Data Scientist,Charlotte,Available
+"Seattle, WA 98105","Senior Data Scientist - System Intelligence and Machine Learning, ISE","1,66,600","2,50,600"," $2,08,600.00 ",United States of America,Data Scientist,Seattle,Available
+"New York, NY 10017",Design Strategist III - Artificial Intelligence,"1,11,600","1,78,600"," $1,45,100.00 ",United States of America,Data Scientist,New York,Available
+United States,AI & Emerging Technology Strategist,,,,United States of America,Data Scientist,United States,Missing
+"Overland Park, KS 66251",AI Strategy Manager,"81,800","1,47,500"," $1,14,650.00 ",United States of America,Data Scientist,Overland Park,Available
+"New York, NY","Staff Software Engineer, BigQuery, Generative AI","1,97,000","2,91,000"," $2,44,000.00 ",United States of America,Data Scientist,New York,Available
+"Sunnyvale, CA","Data Center Mechanical Engineer - Sunnyvale, Austin or Kirkland","1,44,000","2,11,000"," $1,77,500.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"St. Louis, MO 63101",IT - Clinical Informaticist Product Development,61.24,64," $1,31,040.00 ",United States of America,Data Scientist,St. Louis,Available
+"Washington, DC","Senior Applied Scientist, AI (FULLY REMOTE-USA)","1,39,840","2,40,350"," $1,90,095.00 ",United States of America,Data Scientist,Washington,Available
+"Ashburn, VA 20147",Senior Data Analyst,,,,United States of America,Data Scientist,Ashburn,Missing
+"Long Beach, CA","Assistant Director, Student Success Dashboard Data Scientist"," Up to   135,000   ",," $1,35,000.00 ",United States of America,Data Scientist,Long Beach,Available
+"Atlanta, GA",Principal Machine Learning Engineer,,,,United States of America,Data Scientist,Atlanta,Missing
+United States,Medical Economics Data Analyst,,,,United States of America,Data Scientist,United States,Missing
+"Los Alamos, NM",Acoustic Signal Processing Machine Learning Postdoc,,,,United States of America,Data Scientist,Los Alamos,Missing
+"Austin, TX","Data Center Mechanical Engineer - Sunnyvale, Austin or Kirkland","1,44,000","2,11,000"," $1,77,500.00 ",United States of America,Data Scientist,Austin,Available
+United States,Data Scientist,,,,United States of America,Data Scientist,United States,Missing
+"Washington, DC","Director, Data Science",,,,United States of America,Data Scientist,Washington,Missing
+"Overland Park, KS 66251",Sr. Data Scientist,"1,06,000","1,91,100"," $1,48,550.00 ",United States of America,Data Scientist,Overland Park,Available
+"Houston, TX 77042","Sr. Manager, AI Strategy & Implementation",,,,United States of America,Data Scientist,Houston,Missing
+"Alpharetta, GA 30004",Natural Language (NL) Data Scientist,85,110," $2,03,840.00 ",United States of America,Data Scientist,Alpharetta,Available
+"New York, NY 10011","Sr. Data Scientist, Product Analytics - (e-commerce)","1,73,500","2,13,100"," $1,93,300.00 ",United States of America,Data Scientist,New York,Available
+Remote,ML Engineer w/USC/GC/H4EAD,60,65," $1,31,040.00 ",United States of America,Data Scientist,Remote,Available
+"Fort Meade, MD 20755",Data Scientist Skill Level 1,"70,000","1,00,000"," $85,000.00 ",United States of America,Data Scientist,Fort Meade,Available
+"New York, NY 10007",Senior Data Analyst,65,70," $1,41,440.00 ",United States of America,Data Scientist,New York,Available
+"Baton Rouge, LA 70808",Senior Audit Data Analyst,,,,United States of America,Data Scientist,Baton Rouge,Missing
+"Arlington, VA 22201",Data Scientist,,,,United States of America,Data Scientist,Arlington,Missing
+"Dallas, TX",Sr Data Analyst,51,," $1,06,080.00 ",United States of America,Data Scientist,Dallas,Available
+"Irving, NY","Senior Quantitative Analytics Specialist - R&D GenAI, Agentic AI and ML","1,11,100","2,37,100"," $1,74,100.00 ",United States of America,Data Scientist,Irving,Available
+"San Francisco, CA",AI/Automation Engineer,,,,United States of America,Data Scientist,San Francisco,Missing
+"Boston, MA",AI Engineer,,,,United States of America,Data Scientist,Boston,Missing
+"Collegeville, PA 19426","Product Director, Central Monitoring & Data Analytics",,,,United States of America,Data Scientist,Collegeville,Missing
+Remote,"Lead Consultant, Machine Learning Engineer",,,,United States of America,Data Scientist,Remote,Missing
+"Charlotte, NC 28202",Sr. Data Analyst- Traded Products,,,,United States of America,Data Scientist,Charlotte,Missing
+"Sunnyvale, CA","Data Scientist, Product Analytics","1,40,400","1,66,100"," $1,53,250.00 ",United States of America,Data Scientist,Sunnyvale,Available
+United States,Senior AI Engineer,,,,United States of America,Data Scientist,United States,Missing
+"Aberdeen, MD 21001",Data Scientist,,,,United States of America,Data Scientist,Aberdeen,Missing
+"Richardson, TX 75081",Gen AI Engineering Manager,"90,000","1,44,000"," $1,17,000.00 ",United States of America,Data Scientist,Richardson,Available
+"Chicago, IL",Systematic Trading - Senior Data Scientist,,,,United States of America,Data Scientist,Chicago,Missing
+"San Francisco, CA","Senior Data Scientist, Analytics (Growth)","1,50,000","2,30,000"," $1,90,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"Chantilly, VA","Data Engineer, TS/SCI FSP","1,35,000","1,70,000"," $1,52,500.00 ",United States of America,Data Scientist,Chantilly,Available
+"Grand Rapids, MI 49525",Principal Data Scientist,,,,United States of America,Data Scientist,Grand Rapids,Missing
+"Anacostia, DC",Data Scientist,"1,07,000","1,15,000"," $1,11,000.00 ",United States of America,Data Scientist,Anacostia,Available
+"New York, NY 10013",Lead Machine Learning Engineer,"1,75,800","2,35,700"," $2,05,750.00 ",United States of America,Data Scientist,New York,Available
+"Irvine, CA",Senior Statistician - NV,"1,18,400","1,77,600"," $1,48,000.00 ",United States of America,Data Scientist,Irvine,Available
+"New York, NY 10172",AI Governance Lead,"1,63,000","2,60,000"," $2,11,500.00 ",United States of America,Data Scientist,New York,Available
+"Brooklyn Park, MN 55445",Sr Data Scientist - Merchandise Scaling (applied ML),"95,000","1,71,000"," $1,33,000.00 ",United States of America,Data Scientist,Brooklyn Park,Available
+"Fort Meade, MD 20755",Data Scientist Skill Level 2,"1,15,000","1,45,000"," $1,30,000.00 ",United States of America,Data Scientist,Fort Meade,Available
+"Denver, CO 80203",Data Scientist,"73,500","1,13,900"," $93,700.00 ",United States of America,Data Scientist,Denver,Available
+"Sunnyvale, CA 94085",Technical Lead- AI-based Autonomous Driving Systems,"2,40,000","3,00,000"," $2,70,000.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Aberdeen, MD 21001",AI/ML Engineer,"1,00,000","1,10,000"," $1,05,000.00 ",United States of America,Data Scientist,Aberdeen,Available
+"Aberdeen, MD 21001",Gen AI Specialist,"85,000","1,25,000"," $1,05,000.00 ",United States of America,Data Scientist,Aberdeen,Available
+"Plano, TX 75024","Principal Software Engineer - AWS, Java, AI",,,,United States of America,Data Scientist,Plano,Missing
+Remote,ML Engineer,80,90," $1,76,800.00 ",United States of America,Data Scientist,Remote,Available
+"Washington, DC","Director, Data Science tags.new",,,,United States of America,Data Scientist,Washington,Missing
+"Seattle, WA","Principal Applied Scientist - Generative AI, Trust and Store Integrity Science","1,79,000","3,09,400"," $2,44,200.00 ",United States of America,Data Scientist,Seattle,Available
+Remote,Data & AI Architect,"1,30,000","1,70,000"," $1,50,000.00 ",United States of America,Data Scientist,Remote,Available
+"Annapolis Junction, MD",Artificial Intelligence/Machine Learning (AI/ML) Engineer,,,,United States of America,Data Scientist,Annapolis Junction,Missing
+"Plano, TX 75024","Manager 3, Data Science",,,,United States of America,Data Scientist,Plano,Missing
+"San Diego, CA 92121",Senior Machine Learning Operation Engineer,"1,79,500","1,89,000"," $1,84,250.00 ",United States of America,Data Scientist,San Diego,Available
+"Charlotte, NC",Lead AI/ML Engineer-Python and RAG,,,,United States of America,Data Scientist,Charlotte,Missing
+"Englewood, CO 80112",Data Scientist II,"1,15,254.80",," $1,15,255.00 ",United States of America,Data Scientist,Englewood,Available
+Remote,Mathematical Statistician III,40.87,81.73," $1,26,880.00 ",United States of America,Data Scientist,Remote,Available
+"Cambridge, MA","Sr. Manager, Statistical Methodology and Innovation",,,,United States of America,Data Scientist,Cambridge,Missing
+"Annapolis Junction, MD",Senior Data Scientist,,,,United States of America,Data Scientist,Annapolis Junction,Missing
+"Ashburn, VA 20147",Artificial Intelligence Operations Engineer,,,,United States of America,Data Scientist,Ashburn,Missing
+"Reston, VA",Lead Generative AI Engineer,,,,United States of America,Data Scientist,Reston,Missing
+"Dallas, TX",Principal Statistical Programmer,,,,United States of America,Data Scientist,Dallas,Missing
+Remote,"Senior Manager, Machine Learning","2,00,000","2,25,000"," $2,12,500.00 ",United States of America,Data Scientist,Remote,Available
+"Edison, NJ",Lead AI Full Stack ENgineer,,,,United States of America,Data Scientist,Edison,Missing
+"Falls Church, VA 22042",Data Annotation Team Supervisor,"60,000","65,000"," $62,500.00 ",United States of America,Data Scientist,Falls Church,Available
+Remote,"Software Engineer, AI",,,,United States of America,Data Scientist,Remote,Missing
+"Chicago, IL 60290",Sr Data Scientist,"1,10,720","1,66,080"," $1,38,400.00 ",United States of America,Data Scientist,Chicago,Available
+"New York, NY","Data Scientist II, Rider Experience","1,55,000","1,72,000"," $1,63,500.00 ",United States of America,Data Scientist,New York,Available
+"Ohio, IL 61349",AI Engineer,"81,848.66","98,570.42"," $90,210.00 ",United States of America,Data Scientist,Ohio,Available
+United States,Data Annotation Analyst,"60,000","75,000"," $67,500.00 ",United States of America,Data Scientist,United States,Available
+"Downers Grove, IL 60515",Senior Data Analyst,,,,United States of America,Data Scientist,Downers Grove,Missing
+"Los Angeles, CA 90064","Sr. Manager, AI & Analytics","1,80,000","2,00,000"," $1,90,000.00 ",United States of America,Data Scientist,Los Angeles,Available
+"Grand Rapids, MI 49534",Software Developer/ AI Developer,"65,000","75,000"," $70,000.00 ",United States of America,Data Scientist,Grand Rapids,Available
+Remote,Data Scientist-Sr Consultant II,"95,700","1,52,690"," $1,24,195.00 ",United States of America,Data Scientist,Remote,Available
+"Carmel, IN 46032",Senior Power Systems Data Scientist,"1,15,000","1,34,000"," $1,24,500.00 ",United States of America,Data Scientist,Carmel,Available
+"Lansing, MI",Data Scientist,,,,United States of America,Data Scientist,Lansing,Missing
+"New York, NY","Human Data Manager, Handshake AI","1,10,000","1,40,000"," $1,25,000.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY","Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS)","1,29,300","2,23,600"," $1,76,450.00 ",United States of America,Data Scientist,New York,Available
+"McLean, VA 22102",Senior Data Scientist,"1,40,000","1,90,000"," $1,65,000.00 ",United States of America,Data Scientist,McLean,Available
+"Scottsdale, AZ",Data Scientist 1,"1,23,500","2,12,850"," $1,68,175.00 ",United States of America,Data Scientist,Scottsdale,Available
+"Washington, DC 20036",Data Scientist,,,,United States of America,Data Scientist,Washington,Missing
+"McLean, VA 22102",Machine Learning Engineer,"1,15,000","1,50,000"," $1,32,500.00 ",United States of America,Data Scientist,McLean,Available
+"Roslindale, MA 02131",Data Scientist III,,,,United States of America,Data Scientist,Roslindale,Missing
+"Fort Collins, CO",Data Scientist,"79,360","1,19,040"," $99,200.00 ",United States of America,Data Scientist,Fort Collins,Available
+"Bellevue, WA",Data Scientist II,"1,20,500","1,93,500"," $1,57,000.00 ",United States of America,Data Scientist,Bellevue,Available
+"Chicago, IL",Sr Data Scientist,"1,23,500","2,12,850"," $1,68,175.00 ",United States of America,Data Scientist,Chicago,Available
+"Jersey City, NJ 07310",Lead Data Scientist - Finance Technology,"1,42,500","2,10,000"," $1,76,250.00 ",United States of America,Data Scientist,Jersey City,Available
+"Seattle, WA","Data Scientist, Applied AI Solutions","1,25,500","2,12,800"," $1,69,150.00 ",United States of America,Data Scientist,Seattle,Available
+"Redmond, WA 98052",Senior Battery Data Scientist,"1,19,800","2,58,000"," $1,88,900.00 ",United States of America,Data Scientist,Redmond,Available
+"Rochester, MN 55901",Principal Data Science Analyst - Remote,"1,41,689","2,05,420"," $1,73,555.00 ",United States of America,Data Scientist,Rochester,Available
+"San Bruno, CA 94066","(USA) Senior, Data Scientist","1,17,000","2,34,000"," $1,75,500.00 ",United States of America,Data Scientist,San Bruno,Available
+"Palo Alto, CA",Principal Data Scientist,,,,United States of America,Data Scientist,Palo Alto,Missing
+"Washington, DC 20032",Data Scientist - MID,,,,United States of America,Data Scientist,Washington,Missing
+"Bethesda, MD",Data Scientist,"1,40,792.99","1,87,723.99"," $1,64,258.00 ",United States of America,Data Scientist,Bethesda,Available
+"Calabasas, CA","Senior Manager, Data Science","1,24,486","1,61,860"," $1,43,173.00 ",United States of America,Data Scientist,Calabasas,Available
+"Phoenix, AZ 85051",AI chatbot developer,"95,321.52","3,14,795.80"," $2,05,059.00 ",United States of America,Data Scientist,Phoenix,Available
+"Chantilly, VA",Data Scientist - STAR 2117,,,,United States of America,Data Scientist,Chantilly,Missing
+Wisconsin,Sr Data Scientist,,,,United States of America,Data Scientist,Wisconsin,Missing
+"Minnetonka, MN 55305","Principal Data Scientist, Star Ratings Analytics - Remote","1,06,800","1,94,200"," $1,50,500.00 ",United States of America,Data Scientist,Minnetonka,Available
+"San Francisco, CA",Senior AI Data Specialist- Women's Health (Short-term 9 months),"1,39,000","2,03,000"," $1,71,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"Bethesda, MD",Data Scientist,"1,74,778.09","2,33,037.46"," $2,03,908.00 ",United States of America,Data Scientist,Bethesda,Available
+"San Juan, PR",Data Scientist,,,,United States of America,Data Scientist,San Juan,Missing
+Remote,Data Scientist with ML experience ( Only w2),51.09,55.94," $1,12,320.00 ",United States of America,Data Scientist,Remote,Available
+"Fort Meade, MD",Data Scientist - Skill Level 3,"1,67,447.97","2,23,263.96"," $1,95,356.00 ",United States of America,Data Scientist,Fort Meade,Available
+Remote,ML Engineer,"1,52,608","1,66,783"," $1,59,696.00 ",United States of America,Data Scientist,Remote,Available
+Remote,Data Scientist,"95,000","1,05,000"," $1,00,000.00 ",United States of America,Data Scientist,Remote,Available
+"Washington, DC",Data Scientist,,,,United States of America,Data Scientist,Washington,Missing
+"Allegan, MI 49010",Sr. Data Scientist,,,,United States of America,Data Scientist,Allegan,Missing
+"Orange, CA",Data Scientist – Generative AI & Medicare Risk Adjustment Analytics,"1,49,882","2,24,823"," $1,87,353.00 ",United States of America,Data Scientist,Orange,Available
+"Washington, DC 20006",Sr. Data Scientist II (5945),"1,20,000","1,91,000"," $1,55,500.00 ",United States of America,Data Scientist,Washington,Available
+"Lincolnshire, IL",Senior Data Scientist,"1,15,000","1,75,000"," $1,45,000.00 ",United States of America,Data Scientist,Lincolnshire,Available
+"Washington, DC",Data Scientist - Mid,,,,United States of America,Data Scientist,Washington,Missing
+"Scottsdale, AZ 85255",Associate Data Scientist,,,,United States of America,Data Scientist,Scottsdale,Missing
+"Houston, TX 77030",Senior Data Scientist - Healthcare AI,"1,23,000","1,85,000"," $1,54,000.00 ",United States of America,Data Scientist,Houston,Available
+"Sunnyvale, CA 94085",Data Science Engineer,"1,24,300","2,13,100"," $1,68,700.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"North Las Vegas, NV",Data Analyst / Senior Data Analyst,"77,633.37","1,35,078.16"," $1,06,356.00 ",United States of America,Data Scientist,North Las Vegas,Available
+"Seattle, WA","Data Scientist, NAS Mosaic","1,25,500","2,12,800"," $1,69,150.00 ",United States of America,Data Scientist,Seattle,Available
+"Rockville, MD 20850",Data Analyst / Health Data Scientist,"80,000.88","1,15,000.00"," $97,500.00 ",United States of America,Data Scientist,Rockville,Available
+United States,Data Scientist,"1,00,000","1,10,000"," $1,05,000.00 ",United States of America,Data Scientist,United States,Available
+"Des Moines, IA",Data Scientist II,,,,United States of America,Data Scientist,Des Moines,Missing
+Minnesota,Data Scientist,"1,22,292","1,49,468"," $1,35,880.00 ",United States of America,Data Scientist,Minnesota,Available
+"San Francisco, CA","Co-op, Data Science",,,,United States of America,Data Scientist,San Francisco,Missing
+Remote,Arity - Data Scientist - Arity,"78,600","1,42,275"," $1,10,438.00 ",United States of America,Data Scientist,Remote,Available
+Remote,Data Scientist,,,,United States of America,Data Scientist,Remote,Missing
+Remote,Junior Data Scientist -DOD Secret Clearance Required,30,40," $72,800.00 ",United States of America,Data Scientist,Remote,Available
+"Westwood, MA",Lead Data Scientist (Hybrid),"1,57,040","1,74,490"," $1,65,765.00 ",United States of America,Data Scientist,Westwood,Available
+"Ridgefield, CT 06877",Senior Data Scientist,,,,United States of America,Data Scientist,Ridgefield,Missing
+"Charlotte, NC 28202",Senior Data Science Consultant - Campaign Analytics,,,,United States of America,Data Scientist,Charlotte,Missing
+Remote,Research Data Scientist,,,,United States of America,Data Scientist,Remote,Missing
+"Washington, DC 20001",Senior Data Analyst,,,,United States of America,Data Scientist,Washington,Missing
+"Dearborn, MI 48126",Analytics Scientist,,,,United States of America,Data Scientist,Dearborn,Missing
+"New York, NY",Senior Analyst - Data Science,"55,000","1,05,000"," $80,000.00 ",United States of America,Data Scientist,New York,Available
+"Charlottesville, VA","Data Scientist, Federal Team","98,100","1,71,398"," $1,34,749.00 ",United States of America,Data Scientist,Charlottesville,Available
+"Palo Alto, CA","Senior Data Scientist, EGINew","1,75,000","2,10,000"," $1,92,500.00 ",United States of America,Data Scientist,Palo Alto,Available
+"New York, NY",Lead Machine Learning Engineer,"1,75,800","2,35,700"," $2,05,750.00 ",United States of America,Data Scientist,New York,Available
+"Seattle, WA 98107",AI Scientist - Agentic Verticals,"1,43,000","3,12,800"," $2,27,900.00 ",United States of America,Data Scientist,Seattle,Available
+"Denver, CO 80014",Data Scientist Level 3,"61,244.98","1,34,738.95"," $97,992.00 ",United States of America,Data Scientist,Denver,Available
+"Cleveland, OH 44195",Data Scientist II - Neurological Institute,,,,United States of America,Data Scientist,Cleveland,Missing
+"Menlo Park, CA 94025","Data Science Manager, Monetization","2,06,000","2,81,000"," $2,43,500.00 ",United States of America,Data Scientist,Menlo Park,Available
+"Charlotte, NC 28202",Lead Data Science Consultant - Campaign Analytics,,,,United States of America,Data Scientist,Charlotte,Missing
+"New York, NY","Audio Software Engineer, Applied Scientist",70.67,," $1,47,680.00 ",United States of America,Data Scientist,New York,Available
+"Charlotte, NC",Sr Data Scientist,"1,10,720","1,66,080"," $1,38,400.00 ",United States of America,Data Scientist,Charlotte,Available
+"New York, NY","Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS)","1,29,300","2,23,600"," $1,76,450.00 ",United States of America,Data Scientist,New York,Available
+"Redmond, WA 98052",Applied Scientist II - M365 Copilot,"1,00,600","2,15,400"," $1,58,000.00 ",United States of America,Data Scientist,Redmond,Available
+"Sunnyvale, CA","Data Scientist, Energy Analytics, Google Cloud","1,66,000","2,44,000"," $2,05,000.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"South San Francisco, CA 94080",Advanced Data Science Associate Consultant,,,,United States of America,Data Scientist,South San Francisco,Missing
+Remote,AI SpecialistNew,,,,United States of America,Data Scientist,Remote,Missing
+"San Francisco, CA",Sr. Marketing Applied Scientist,"1,83,000","2,03,000"," $1,93,000.00 ",United States of America,Data Scientist,San Francisco,Available
+United States,AI Machine Trainer (Remote),,,,United States of America,Data Scientist,United States,Missing
+"New York, NY",Data Scientist (Technical Leadership),"2,06,000","2,81,000"," $2,43,500.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY",Senior Data Analyst,,,,United States of America,Data Scientist,New York,Missing
+"McLean, VA",Senior Data Scientist - NLP,"1,33,000","1,65,600"," $1,49,300.00 ",United States of America,Data Scientist,McLean,Available
+"Irving, TX",Data Analytics Lead Analyst - C13 - IRVING,"1,25,760","1,88,640"," $1,57,200.00 ",United States of America,Data Scientist,Irving,Available
+"Montgomery, NJ 08558",Senior Data Analyst - Litigation Content,"85,000","1,05,000"," $95,000.00 ",United States of America,Data Scientist,Montgomery,Available
+"Wichita, KS 67201",EHS Systems & Data Analyst,,,,United States of America,Data Scientist,Wichita,Missing
+"New York, NY",Sr. Marketing Applied Scientist,"1,83,000","2,03,000"," $1,93,000.00 ",United States of America,Data Scientist,New York,Available
+"Columbus, OH","Senior Data Analyst - Hybrid, OH",,,,United States of America,Data Scientist,Columbus,Missing
+United States,AI & Data Manager - Life Sciences R&D (CMC),"1,30,800","2,41,000"," $1,85,900.00 ",United States of America,Data Scientist,United States,Available
+Remote,Principal Statistical Programmer,"1,45,000","1,55,000"," $1,50,000.00 ",United States of America,Data Scientist,Remote,Available
+"Washington, DC 20022","Data Scientist, Senior Active TS/SCI with Poly REQUIRED","1,15,800","2,22,960"," $1,69,380.00 ",United States of America,Data Scientist,Washington,Available
+"Lake Success, NY 11042","Sr Operations Data Analyst (Lake Success, NY: Hybrid)","1,17,000","1,47,000"," $1,32,000.00 ",United States of America,Data Scientist,Lake Success,Available
+Remote,"Assistant Director, Data Science","1,04,000","2,25,000"," $1,64,500.00 ",United States of America,Data Scientist,Remote,Available
+"Nashville, TN 37203",Data Science Manager,,,,United States of America,Data Scientist,Nashville,Missing
+Remote,Principal Machine Learning Tech Lead," Up to   312,000   ",," $3,12,000.00 ",United States of America,Data Scientist,Remote,Available
+"Sunnyvale, CA 94085",Data Science Engineer,"1,24,300","2,13,100"," $1,68,700.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Boston, MA",Senior Data Scientist,"87,210","1,31,230"," $1,09,220.00 ",United States of America,Data Scientist,Boston,Available
+United States,Data Scientist,"1,19,800","2,58,000"," $1,88,900.00 ",United States of America,Data Scientist,United States,Available
+"Michigan City, IN 46360",SAP Materials Master Data Analyst,,,,United States of America,Data Scientist,Michigan City,Missing
+"McLean, VA",Senior Data Scientist - NLP,,,,United States of America,Data Scientist,McLean,Missing
+"Sunnyvale, CA 94089","Data Science Manager, Monetization","2,06,000","2,81,000"," $2,43,500.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"New York, NY",AI & Data Platform Program Lead - SVP,"1,92,000","2,88,000"," $2,40,000.00 ",United States of America,Data Scientist,New York,Available
+"Dahlgren, VA",Senior Data Analyst (4408),"1,05,100","1,75,100"," $1,40,100.00 ",United States of America,Data Scientist,Dahlgren,Available
+Maryland,Data Scientist 3,"1,57,000","2,15,000"," $1,86,000.00 ",United States of America,Data Scientist,Maryland,Available
+"New York, NY",Senior Machine Learning Engineer,"1,58,600","1,97,400"," $1,78,000.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY","GenAI Project Manager, Product Data Operations","93,000","1,36,000"," $1,14,500.00 ",United States of America,Data Scientist,New York,Available
+"Annapolis Junction, MD",Senior Data Scientist,"1,20,800","2,17,400"," $1,69,100.00 ",United States of America,Data Scientist,Annapolis Junction,Available
+"New York, NY","Senior Manager, Data Science - LLM Customization Team",,,,United States of America,Data Scientist,New York,Missing
+"New York, NY",Senior Commercial Data Analyst,"1,14,750","1,53,000"," $1,33,875.00 ",United States of America,Data Scientist,New York,Available
+"Bellevue, WA 98005","Research Scientist, Machine Learning (PhD)",56.25,," $1,16,480.00 ",United States of America,Data Scientist,Bellevue,Available
+"Boston, MA","Senior Data Scientist, AI Agent","1,40,000","2,00,000"," $1,70,000.00 ",United States of America,Data Scientist,Boston,Available
+"Chantilly, VA",Data Scientist (TS/SCI + Poly),,,,United States of America,Data Scientist,Chantilly,Missing
+"Ridgefield, CT 06877",Principal Clinical Data Scientist,,,,United States of America,Data Scientist,Ridgefield,Missing
+"Irvine, CA 92617",Sr. Data Analyst - Xumo,"87,174.77","1,30,762.15"," $1,08,968.00 ",United States of America,Data Scientist,Irvine,Available
+"Seattle, WA","Data Scientist, Energy Analytics, Google Cloud","1,66,000","2,44,000"," $2,05,000.00 ",United States of America,Data Scientist,Seattle,Available
+"Cary, NC",Senior Statistical Programmer (Remote),"73,000","1,12,000"," $92,500.00 ",United States of America,Data Scientist,Cary,Available
+"Chicago, IL",Machine Learning Engineer,"1,11,500","1,91,950"," $1,51,725.00 ",United States of America,Data Scientist,Chicago,Available
+Washington State,AI Community Engineer,"1,27,860","2,11,080"," $1,69,470.00 ",United States of America,Data Scientist,Washington State,Available
+"Nashville, TN 37203",Lead Data Scientist,,,,United States of America,Data Scientist,Nashville,Missing
+"Nashville, TN 37203",Data Science Manager,,,,United States of America,Data Scientist,Nashville,Missing
+"Franklin, TN 37067","Sr. Data Scientist, Aftersales Parts Pricing",,,,United States of America,Data Scientist,Franklin,Missing
+"Atlanta, GA 30319",Senior Data & AI Engineer,"1,16,700","1,96,100"," $1,56,400.00 ",United States of America,Data Scientist,Atlanta,Available
+"Austin, TX","Manager, AI & Data Science - Cognitive AI","1,02,500","1,84,400"," $1,43,450.00 ",United States of America,Data Scientist,Austin,Available
+"New York, NY","Applied Scientist II, Sponsored Products - Bidding","1,36,000","2,23,400"," $1,79,700.00 ",United States of America,Data Scientist,New York,Available
+Remote,AI Specialist,,,,United States of America,Data Scientist,Remote,Missing
+"Warren, NJ 07059",AI Engineer,"1,75,000","2,25,000"," $2,00,000.00 ",United States of America,Data Scientist,Warren,Available
+California,"Assistant Director, Student Success Dashboard Data Scientist",,,,United States of America,Data Scientist,California,Missing
+Remote,Senior Compliance & Data Analyst,"75,600","99,200"," $87,400.00 ",United States of America,Data Scientist,Remote,Available
+"New York, NY","Strategic Projects Lead, Handshake AI","1,25,000","1,60,000"," $1,42,500.00 ",United States of America,Data Scientist,New York,Available
+"Lackland AFB, TX 78236",Data Scientist,,,,United States of America,Data Scientist,Lackland AFB,Missing
+"New York, NY","Growth Operations Lead, Handshake AI","1,25,000","2,00,000"," $1,62,500.00 ",United States of America,Data Scientist,New York,Available
+"Atlanta, GA 30303","Senior Data Analyst, Ethics & Compliance",,,,United States of America,Data Scientist,Atlanta,Missing
+Virginia,"Threat Analyst, Machine Learning (Remote, East/Central)","1,00,000","1,50,000"," $1,25,000.00 ",United States of America,Data Scientist,Virginia,Available
+"Washington, DC","Machine Learning Engineer, Junior","55,200","1,26,000"," $90,600.00 ",United States of America,Data Scientist,Washington,Available
+"Sunnyvale, CA 94089","Software Engineer, Machine Learning",56.25,," $1,16,480.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Saint Paul, MN",Data Analyst - Research Analysis Specialist Senior,31.92,47.05," $81,120.00 ",United States of America,Data Scientist,Saint Paul,Available
+"Arlington, VA",Senior Data Scientist,,,,United States of America,Data Scientist,Arlington,Missing
+"Sunnyvale, CA","Applied Scientist, Artificial General Intelligence","1,36,000","2,23,400"," $1,79,700.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Austin, TX",Sr. Decision Scientist,,,,United States of America,Data Scientist,Austin,Missing
+"Burlingame, CA 94010","Data Science Manager, Demand Planning and Forecasting","2,06,000","2,81,000"," $2,43,500.00 ",United States of America,Data Scientist,Burlingame,Available
+"New York, NY",Software Engineer (Technical Leadership) - Machine Learning,"2,13,000","2,93,000"," $2,53,000.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY","Data Engineering Manager, Analytics","1,73,000","2,42,000"," $2,07,500.00 ",United States of America,Data Scientist,New York,Available
+"Riverside, CA 92518",Sr. Data Scientist – AI/ML & LLM Specialist,"90,300","1,89,600"," $1,39,950.00 ",United States of America,Data Scientist,Riverside,Available
+"Roswell, GA","AI/ML Development Engineer, RD&E","1,05,740","1,30,620"," $1,18,180.00 ",United States of America,Data Scientist,Roswell,Available
+"Atlanta, GA",Machine Learning Ops Engineer,,,,United States of America,Data Scientist,Atlanta,Missing
+"Menlo Park, CA 94025","Data Engineering Leader, Analytics (Monetization)","2,06,000","2,81,000"," $2,43,500.00 ",United States of America,Data Scientist,Menlo Park,Available
+"Washington, DC 20005",AI Governance Fellow,"80,000","1,15,000"," $97,500.00 ",United States of America,Data Scientist,Washington,Available
+"Bothell, WA","Director, AIDA R&D AI & Data Product Management","1,69,700","2,82,900"," $2,26,300.00 ",United States of America,Data Scientist,Bothell,Available
+"Atlanta, GA",AI/ML Engineer,,,,United States of America,Data Scientist,Atlanta,Missing
+Remote,Machine Learning Engineer III,"1,40,000","1,95,000"," $1,67,500.00 ",United States of America,Data Scientist,Remote,Available
+"Renton, WA",Experienced Quality Systems Specialist (Statistical Analysis & Application),"86,700","1,17,300"," $1,02,000.00 ",United States of America,Data Scientist,Renton,Available
+"Bellevue, WA 98005","Software Engineer, Machine Learning",56.25,," $1,16,480.00 ",United States of America,Data Scientist,Bellevue,Available
+"Brooklyn Park, MN 55445","Lead Machine Learning / AI Engineer - Personalization (Python, PySpark, ML Ops)","1,28,000","2,77,000"," $2,02,500.00 ",United States of America,Data Scientist,Brooklyn Park,Available
+"Newark, NJ 07102","Lead, Machine Learning Engineer","1,30,300","2,15,100"," $1,72,700.00 ",United States of America,Data Scientist,Newark,Available
+United States,"AI Tutor, Environmental Science Specialist (Contract), Handshake AI",55,100," $1,62,240.00 ",United States of America,Data Scientist,United States,Available
+"Atlanta, GA","Senior Delivery Consultant - Senior Machine Learning Engineer, AWS Professional Services, AWS Professional Services","1,38,200","2,39,000"," $1,88,600.00 ",United States of America,Data Scientist,Atlanta,Available
+"Seattle, WA","Machine Learning Engineer II, Sponsored Products Search Sourcing, Amazon Advertising","1,29,300","2,23,600"," $1,76,450.00 ",United States of America,Data Scientist,Seattle,Available
+"Sunnyvale, CA","Software Engineer III, Generative AI, Google Workspace","1,41,000","2,02,000"," $1,71,500.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"New York, NY","Applied Scientist II, Sponsored Products - Bidding","1,36,000","2,23,400"," $1,79,700.00 ",United States of America,Data Scientist,New York,Available
+"Menlo Park, CA",AI Developer Efficiency Product Manager,"2,02,000","2,77,000"," $2,39,500.00 ",United States of America,Data Scientist,Menlo Park,Available
+"Ridgefield, CT 06877",Principal Clinical Data Scientist,,,,United States of America,Data Scientist,Ridgefield,Missing
+"Bellevue, WA 98005","Data Engineering Manager, Analytics","1,73,000","2,42,000"," $2,07,500.00 ",United States of America,Data Scientist,Bellevue,Available
+"Boston, MA","Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services","1,18,200","2,04,300"," $1,61,250.00 ",United States of America,Data Scientist,Boston,Available
+"New York, NY",AI & Data Platform Program Lead - SVP,"1,92,000","2,88,000"," $2,40,000.00 ",United States of America,Data Scientist,New York,Available
+"New York, NY",Senior Machine Learning Engineer,,,,United States of America,Data Scientist,New York,Missing
+"New York, NY",Gen AI Lead Engineer - SVP,"1,92,000","2,88,000"," $2,40,000.00 ",United States of America,Data Scientist,New York,Available
+United States,Applied AI Researcher (USA),,,,United States of America,Data Scientist,United States,Missing
+"Atlanta, GA 30308",Lead Machine Learning Engineer,,,,United States of America,Data Scientist,Atlanta,Missing
+United States,Senior AI/ML Engineer – Agentic AI Systems (Remote/Hybrid),"1,70,000","4,00,000"," $2,85,000.00 ",United States of America,Data Scientist,United States,Available
+"Irving, TX",Workforce Optimization Data Science & Analytics Lead - Vice President,"1,38,720","2,08,080"," $1,73,400.00 ",United States of America,Data Scientist,Irving,Available
+"Raleigh, NC",Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program,,,,United States of America,Data Scientist,Raleigh,Missing
+United States,"AI Tutor, Economics Specialist (contract), Handshake AI",55,100," $1,62,240.00 ",United States of America,Data Scientist,United States,Available
+"Boston, MA 02115",Machine Learning Engineer (Eligible for Secret Clearance),70,100," $1,76,800.00 ",United States of America,Data Scientist,Boston,Available
+"Gaithersburg, MD 20878",ML/AI Operations Architect – Evinova,"1,67,772","2,51,658"," $2,09,715.00 ",United States of America,Data Scientist,Gaithersburg,Available
+"Menlo Park, CA","Data Engineering Manager, Analytics","1,73,000","2,42,000"," $2,07,500.00 ",United States of America,Data Scientist,Menlo Park,Available
+"Santa Clara, CA 95050",Senior AI Workflow Engineer,"2,24,000","3,56,500"," $2,90,250.00 ",United States of America,Data Scientist,Santa Clara,Available
+United States,"AI Tutor, Chemical Engineering Specialist (Contract), Handshake AI",55,100," $1,62,240.00 ",United States of America,Data Scientist,United States,Available
+"Mooresville, NC",WFM Data Analytics Consultant - Store Ops AI & Innovation,,,,United States of America,Data Scientist,Mooresville,Missing
+"Reston, VA",Internal Audit - Data Science Senior Associate,"94,000","1,22,000"," $1,08,000.00 ",United States of America,Data Scientist,Reston,Available
+"New York, NY","Software Engineer, Machine Learning",56.25,," $1,16,480.00 ",United States of America,Data Scientist,New York,Available
+United States,Senior Fullstack AI Engineer,"1,20,000","1,30,000"," $1,25,000.00 ",United States of America,Data Scientist,United States,Available
+"Chicago, IL","Senior Business Data Analyst, Network Reporting",,,,United States of America,Data Scientist,Chicago,Missing
+"Richardson, TX 75081",Sr. Data Scientist,"90,000","1,44,000"," $1,17,000.00 ",United States of America,Data Scientist,Richardson,Available
+"Arden Hills, MN",Manager - AI Engineering,"1,03,700","1,97,000"," $1,50,350.00 ",United States of America,Data Scientist,Arden Hills,Available
+"Plano, TX 75024",Ai Engineer,"1,06,400","1,78,100"," $1,42,250.00 ",United States of America,Data Scientist,Plano,Available
+"Washington, NC",Data Science Analyst - Python and Machine Learning,"56,000","85,400"," $70,700.00 ",United States of America,Data Scientist,Washington,Available
+"Cupertino, CA",Senior ML Data Program Manager,"1,65,500","2,48,700"," $2,07,100.00 ",United States of America,Data Scientist,Cupertino,Available
+"Mountain View, CA",Android AI ML Engineer - On-Device,80,93," $1,80,960.00 ",United States of America,Data Scientist,Mountain View,Available
+"Houston, TX",Moveworks AI Agent Developer (remote),,,,United States of America,Data Scientist,Houston,Missing
+"Sunnyvale, CA",Machine Learning Compiler Architect,"2,07,800","3,78,700"," $2,93,250.00 ",United States of America,Data Scientist,Sunnyvale,Available
+Remote,Senior Data Scientist,70,75," $1,51,840.00 ",United States of America,Data Scientist,Remote,Available
+"Nashville, TN 37203",Senior AI Engineer,,,,United States of America,Data Scientist,Nashville,Missing
+"Cupertino, CA","AI Solutions Architect, Data Solutions & Initiatives","1,75,800","2,64,200"," $2,20,000.00 ",United States of America,Data Scientist,Cupertino,Available
+"Jersey City, NJ 07310",Data Scientist,"1,65,400","1,95,000"," $1,80,200.00 ",United States of America,Data Scientist,Jersey City,Available
+"Mountain View, CA 94035",AI/ML ﻿Researcher,70,100," $1,76,800.00 ",United States of America,Data Scientist,Mountain View,Available
+"Addison, TX 75001",Data Scientist – Generative AI and Document Extraction,44.53,53.62," $1,01,920.00 ",United States of America,Data Scientist,Addison,Available
+"New York, NY","Senior Associate, Analytics & AI Analyst","95,000","1,62,500"," $1,28,750.00 ",United States of America,Data Scientist,New York,Available
+"Salt Lake City, UT",Data Scientist I - Curriculum Analytics,"95,900","1,43,800"," $1,19,850.00 ",United States of America,Data Scientist,Salt Lake City,Available
+"Jersey City, NJ 07310",Data Scientist,"1,65,400","1,95,000"," $1,80,200.00 ",United States of America,Data Scientist,Jersey City,Available
+"Raleigh, NC",Associate Value Engineer (AI for Supply Chain) - Orbit Program,,,,United States of America,Data Scientist,Raleigh,Missing
+"North Chicago, IL",DIRECTOR DSA - DATA & TECHNOLOGY OPS,,,,United States of America,Data Scientist,North Chicago,Missing
+"Mountain View, CA 94043",AI/ML Engineer,85,93," $1,85,120.00 ",United States of America,Data Scientist,Mountain View,Available
+"Yardley, PA 19067",Principal Statistician,"1,20,000","1,40,000"," $1,30,000.00 ",United States of America,Data Scientist,Yardley,Available
+"Mountain View, CA 94043","Principal, Microsoft AI Monetization Strategy","1,30,900","2,72,300"," $2,01,600.00 ",United States of America,Data Scientist,Mountain View,Available
+"Jersey City, NJ 07310",Data Scientist,"1,70,000","2,10,000"," $1,90,000.00 ",United States of America,Data Scientist,Jersey City,Available
+"Springfield, VA 22150",AI/ML Manager - Automation and Orchestration,"1,31,800","2,90,000"," $2,10,900.00 ",United States of America,Data Scientist,Springfield,Available
+"New York, NY",Staff Machine Learning Engineer,"1,50,000","1,70,000"," $1,60,000.00 ",United States of America,Data Scientist,New York,Available
+"Cupertino, CA","Senior Machine Learning Engineer, Siri Attention and Invocation","1,43,100","2,64,200"," $2,03,650.00 ",United States of America,Data Scientist,Cupertino,Available
+"Santa Clara, CA 95050",Senior Compiler Verification Engineer - Deep Learning,"1,36,000","2,64,500"," $2,00,250.00 ",United States of America,Data Scientist,Santa Clara,Available
+California,Machine Learning Researcher – Early-Stage AI Infrastructure,"2,40,000","3,60,000"," $3,00,000.00 ",United States of America,Data Scientist,California,Available
+Remote,Data Scientist,65,70," $1,41,440.00 ",United States of America,Data Scientist,Remote,Available
+"Memphis, TN 38125",OR Data Scientist II,"8,567","10,280"," $1,13,088.00 ",United States of America,Data Scientist,Memphis,Available
+"San Jose, CA",AI Software Engineering Tech Lead (AI Validation / AI Artifacts),,,,United States of America,Data Scientist,San Jose,Missing
+"Reston, VA 20190",Senior CMS Data/Policy SME,"89,203","1,83,491"," $1,36,347.00 ",United States of America,Data Scientist,Reston,Available
+"Howell, MI 48843",Artificial Intelligence (AI) Subject Matter Expert,600,   800 a day ," $1,82,000.00 ",United States of America,Data Scientist,Howell,Available
+"San Francisco, CA","Member of Technical Staff - Applied Science - People Leader, AGI Autonomy","1,20,000","3,50,000"," $2,35,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"San Francisco, CA 94143",Research Data Scientist,"69,000","1,00,200"," $84,600.00 ",United States of America,Data Scientist,San Francisco,Available
+"New York, NY 10022",Data Scientist,"96,000","1,20,000"," $1,08,000.00 ",United States of America,Data Scientist,New York,Available
+"Saint Louis Park, MN 55416",AI Development Expert,"1,64,700","3,74,200"," $2,69,450.00 ",United States of America,Data Scientist,Saint Louis Park,Available
+"Dallas, TX 75201",AI Engineer - Marquee Team - Dallas - GBM Public,,,,United States of America,Data Scientist,Dallas,Missing
+"Cupertino, CA",Machine Learning Manager - Apple Ads,"2,52,400","3,78,700"," $3,15,550.00 ",United States of America,Data Scientist,Cupertino,Available
+"Sunnyvale, CA","Senior Software Engineer, AI/ML, Google Cloud Compute","1,66,000","2,44,000"," $2,05,000.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Austin, TX","Product Test Engineer - Machine Learning Hardware, Annapurna Labs",,,,United States of America,Data Scientist,Austin,Missing
+"San Diego, CA",Senior AI Application Engineer,"1,66,600","2,96,300"," $2,31,450.00 ",United States of America,Data Scientist,San Diego,Available
+"Seattle, WA",Principal PMT - Alexa,"1,61,900","2,79,900"," $2,20,900.00 ",United States of America,Data Scientist,Seattle,Available
+"Sunnyvale, CA 94089","Software Engineering Manager, Machine Learning","1,77,000","2,51,000"," $2,14,000.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Seattle, WA",Senior Principal Software Engineer - AI GPU Innovation,,,,United States of America,Data Scientist,Seattle,Missing
+"Sunnyvale, CA",Machine Learning / Computer Vision Engineer - Generative AI,"1,43,100","2,64,200"," $2,03,650.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Iselin, NJ",Lead AI-driven IT Service Management (ITSM) Engineer,"1,20,400","2,62,600"," $1,91,500.00 ",United States of America,Data Scientist,Iselin,Available
+"San Jose, CA",Senior Software Engineering Manager - AI Assistant,,,,United States of America,Data Scientist,San Jose,Missing
+"Cupertino, CA",Audio ML Algorithm Engineer,"1,43,100","2,14,500"," $1,78,800.00 ",United States of America,Data Scientist,Cupertino,Available
+Remote,Senior Machine Learning Engineer,,,,United States of America,Data Scientist,Remote,Missing
+"Gaithersburg, MD 20878","ML/AI Operations Architect – Evinova Gaithersburg, Maryland","1,67,772","2,51,658"," $2,09,715.00 ",United States of America,Data Scientist,Gaithersburg,Available
+Remote,AI Strategist,,,,United States of America,Data Scientist,Remote,Missing
+"Saint Louis Park, MN 55416",AI Development Expert,"1,64,700","3,74,200"," $2,69,450.00 ",United States of America,Data Scientist,Saint Louis Park,Available
+United States,"AI Tutor, Materials Science Specialist (Contract), Handshake AI",55,100," $1,62,240.00 ",United States of America,Data Scientist,United States,Available
+"Charlotte, NC 28202",CFO Data Management â€“ Loan Products Senior Data Analyst,,,,United States of America,Data Scientist,Charlotte,Missing
+"New York, NY",Staff Machine Learning Engineer - Causal Inference,"2,23,000","2,48,000"," $2,35,500.00 ",United States of America,Data Scientist,New York,Available
+"San Francisco, CA 94105",Lead AI Engineer - Agent Engineering Team,"2,00,800","2,76,100"," $2,38,450.00 ",United States of America,Data Scientist,San Francisco,Available
+"Aiken, SC",Entry Level Data Scientist,,,,United States of America,Data Scientist,Aiken,Missing
+"Sunnyvale, CA 94089",Image Processing and Machine Learning Engineer (PhD),"1,14,000","1,66,000"," $1,40,000.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Mountain View, CA",Member of Technical Staff (Platform),"1,40,000","3,00,000"," $2,20,000.00 ",United States of America,Data Scientist,Mountain View,Available
+"Chicago, IL",Senior Associate L1,,,,United States of America,Data Scientist,Chicago,Missing
+"Gaithersburg, MD 20878","Senior ML/AI Operations Engineer - Evinova Gaithersburg, Maryland","1,34,866.40","2,02,299.60"," $1,68,583.00 ",United States of America,Data Scientist,Gaithersburg,Available
+"San Jose, CA 95124",Chief of Staff - AI Solutions Engineering,,,,United States of America,Data Scientist,San Jose,Missing
+"Santa Clara, CA 95050",AIML - Staff Machine Learning Engineer - Reinforcement Learning,"2,07,800","3,78,700"," $2,93,250.00 ",United States of America,Data Scientist,Santa Clara,Available
+"New York, NY",Gen AI Lead Engineer - SVP,"1,92,000","2,88,000"," $2,40,000.00 ",United States of America,Data Scientist,New York,Available
+"Austin, TX","Product Test Engineer - Machine Learning Hardware, Annapurna Labs",,,,United States of America,Data Scientist,Austin,Missing
+"Atlanta, GA","Senior Delivery Consultant - Senior Machine Learning Engineer, AWS Professional Services, AWS Professional Services","1,38,200","2,39,000"," $1,88,600.00 ",United States of America,Data Scientist,Atlanta,Available
+"Boston, MA","Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services","1,18,200","2,04,300"," $1,61,250.00 ",United States of America,Data Scientist,Boston,Available
+"Santa Clara, CA 95050","Software Developer, AI Networking","1,20,000","2,35,750"," $1,77,875.00 ",United States of America,Data Scientist,Santa Clara,Available
+"New York, NY","Software Engineering Manager, Machine Learning","1,77,000","2,51,000"," $2,14,000.00 ",United States of America,Data Scientist,New York,Available
+"Washington, DC 20022","Machine Learning Engineer, Senior Active TS/SCI with Poly REQUIRED","1,15,800","2,22,960"," $1,69,380.00 ",United States of America,Data Scientist,Washington,Available
+"Aurora, CO 80011",Staff AI/ML Engineering Manager (TS/SCI) {S},"1,60,000","2,00,000"," $1,80,000.00 ",United States of America,Data Scientist,Aurora,Available
+"New York, NY 11226",Data Scientist,50,55," $1,10,240.00 ",United States of America,Data Scientist,New York,Available
+"Columbus, OH",Senior Data Analyst,,,,United States of America,Data Scientist,Columbus,Missing
+"San Diego, CA 92101","Sr Manager, Statistical Programmer",,,,United States of America,Data Scientist,San Diego,Missing
+"New York, NY",Senior AI Consultant," From   190,000   ",," $1,90,000.00 ",United States of America,Data Scientist,New York,Available
+"Mountain View, CA 94043",Android AI/ML Engineer,70,80," $1,56,000.00 ",United States of America,Data Scientist,Mountain View,Available
+"Grand Rapids, MI 49503",AI and Machine Learning Operations and Enablement Data Scientist Lead,,,,United States of America,Data Scientist,Grand Rapids,Missing
+"Mountain View, CA 94043",AI/ML Researcher,90,95," $1,93,440.00 ",United States of America,Data Scientist,Mountain View,Available
+"Huntsville, TX",Enterprise Resource Planning (ERP) Analyst III - AI Developer Analyst III,,,,United States of America,Data Scientist,Huntsville,Missing
+"Lafayette, LA",AI Solutions Architect,"79,300","1,73,500"," $1,26,400.00 ",United States of America,Data Scientist,Lafayette,Available
+United States,Principal AI Researcher (USA),,,,United States of America,Data Scientist,United States,Missing
+"Camden, NJ 08102",IT AI Solution Architect,"92,965.08","1,23,953.44"," $1,08,459.00 ",United States of America,Data Scientist,Camden,Available
+"Plano, TX",AWS Gen AI Developer (8+ Years Exp),"1,30,000","1,75,000"," $1,52,500.00 ",United States of America,Data Scientist,Plano,Available
+"Charlotte, NC",Lead AI-driven IT Service Management (ITSM) Engineer,"1,20,400","2,62,600"," $1,91,500.00 ",United States of America,Data Scientist,Charlotte,Available
+Remote,AI/ML Solution Architect,,,,United States of America,Data Scientist,Remote,Missing
+"Phoenix, AZ 85016",AI/ML Engineer,46.93,56.52," $1,08,160.00 ",United States of America,Data Scientist,Phoenix,Available
+"McLean, VA 22102",Data Scientist,,,,United States of America,Data Scientist,McLean,Missing
+"New York, NY","Delivery Lead, Handshake AI","1,80,000","2,20,000"," $2,00,000.00 ",United States of America,Data Scientist,New York,Available
+Remote,"Part Time Evaluator, Software Engineering and Computer Science",27.21,40.81," $70,720.00 ",United States of America,Data Scientist,Remote,Available
+"Maplewood, MN 55119",Senior AI/ML Scientist,"1,37,439","1,67,981"," $1,52,710.00 ",United States of America,Data Scientist,Maplewood,Available
+"McLean, VA",Principal Data Scientist,,,,United States of America,Data Scientist,McLean,Missing
+"New York, NY",Senior Data Analyst,"87,000","1,09,000"," $98,000.00 ",United States of America,Data Scientist,New York,Available
+"Chicago, IL",Senior Principal Statistician,"1,77,000","2,00,000"," $1,88,500.00 ",United States of America,Data Scientist,Chicago,Available
+Remote,Senior Product Data Scientist – Mobile (Android and iOS Instrumentation) New,"1,28,398.00","2,00,528.64"," $1,64,463.00 ",United States of America,Data Scientist,Remote,Available
+"Mountain View, CA",Machine Learning Engineer,"1,50,000","3,00,000"," $2,25,000.00 ",United States of America,Data Scientist,Mountain View,Available
+"New York, NY","Data Science Manager, Demand Planning and Forecasting","2,06,000","2,81,000"," $2,43,500.00 ",United States of America,Data Scientist,New York,Available
+"Gainesville, FL 32611",Data Scientist II - Quality & Patient Safety Initiative (QPSi),"75,000","85,000"," $80,000.00 ",United States of America,Data Scientist,Gainesville,Available
+"Chicago, IL",Data Scientist,"77,400","1,35,400"," $1,06,400.00 ",United States of America,Data Scientist,Chicago,Available
+"Gainesville, FL 32611",Data Scientist III - Quality & Patient Safety Initiative (QPSi),"88,000","1,05,000"," $96,500.00 ",United States of America,Data Scientist,Gainesville,Available
+Remote,Machine Learning Scientist (L5) - Ads,"1,70,000","7,20,000"," $4,45,000.00 ",United States of America,Data Scientist,Remote,Available
+"San Antonio, TX",Senior Data Analyst,,,,United States of America,Data Scientist,San Antonio,Missing
+"Herndon, VA 20171",SAP NS2 Data Scientist / Data Engineer-TS/SCI+poly-Maryland-100% onsite,"1,07,300","2,30,600"," $1,68,950.00 ",United States of America,Data Scientist,Herndon,Available
+"Santa Clara, CA 95054",Senior Machine Learning Engineer,"1,58,500","2,69,500"," $2,14,000.00 ",United States of America,Data Scientist,Santa Clara,Available
+"San Francisco, CA 94143",Enterprise Data Scientist,"1,43,900","2,00,000"," $1,71,950.00 ",United States of America,Data Scientist,San Francisco,Available
+"McLean, VA 22103",Reports Engineer/Fledgling Data Scientist – Poly Clearance Required!,"79,560","1,75,074"," $1,27,317.00 ",United States of America,Data Scientist,McLean,Available
+"Alpharetta, GA 30022",GenAI Engineer,,,,United States of America,Data Scientist,Alpharetta,Missing
+"Richardson, TX",Sr. Data Scientist,"90,000","1,44,000"," $1,17,000.00 ",United States of America,Data Scientist,Richardson,Available
+Remote,Staff AI Operator,"75,000","90,000"," $82,500.00 ",United States of America,Data Scientist,Remote,Available
+"Foster City, CA 94404",Data Scientist II,"1,88,885","2,25,000"," $2,06,943.00 ",United States of America,Data Scientist,Foster City,Available
+"Columbus, OH",Lead Data Scientist,"54,300","1,08,600"," $81,450.00 ",United States of America,Data Scientist,Columbus,Available
+"Charlotte, NC 28202",CFO Data Management â€“ Loan Products Senior Data Analyst,,,,United States of America,Data Scientist,Charlotte,Missing
+"Charlotte, NC","AVP, IT GenAI User Experience Development",,,,United States of America,Data Scientist,Charlotte,Missing
+"Minneapolis, MN 55403",Sr Data Analyst(Remote Or Hybrid),"87,000","1,56,000"," $1,21,500.00 ",United States of America,Data Scientist,Minneapolis,Available
+"Ford Island, HI","Data Scientist, Senior","99,000","2,25,000"," $1,62,000.00 ",United States of America,Data Scientist,Ford Island,Available
+"Boulder, CO",ML Engineering - ML Ops,"1,39,800","2,20,800"," $1,80,300.00 ",United States of America,Data Scientist,Boulder,Available
+"Costa Mesa, CA 92626",Lead Data Scientist,"1,42,300","1,89,200"," $1,65,750.00 ",United States of America,Data Scientist,Costa Mesa,Available
+"Reston, VA 20190",Data Scientist,,,,United States of America,Data Scientist,Reston,Missing
+"New York, NY 10022",Lead Data Scientist,"1,52,000","1,90,000"," $1,71,000.00 ",United States of America,Data Scientist,New York,Available
+"Overland Park, KS",Senior Healthcare Data Analyst,,,,United States of America,Data Scientist,Overland Park,Missing
+"New York, NY 10001",Lead Data Scientist - Digital + Customer,"1,51,320","2,52,120"," $2,01,720.00 ",United States of America,Data Scientist,New York,Available
+"Indianapolis, IN",Senior Data Scientist II,,,,United States of America,Data Scientist,Indianapolis,Missing
+New York State,Lead Data Scientist,"1,52,000","1,90,000"," $1,71,000.00 ",United States of America,Data Scientist,New York State,Available
+"Irwindale, CA 91702",Data Science Senior Specialist,"1,26,000","1,89,000"," $1,57,500.00 ",United States of America,Data Scientist,Irwindale,Available
+"Nashville, TN 37203",ENTERPRISE DATA SCIENTIST - 68920,"8,534","11,076"," $1,17,660.00 ",United States of America,Data Scientist,Nashville,Available
+New York State,Data Scientist,"96,000","1,20,000"," $1,08,000.00 ",United States of America,Data Scientist,New York State,Available
+"Bellevue, WA 98006","Data Scientist, Agentic AI","86,300","1,55,700"," $1,21,000.00 ",United States of America,Data Scientist,Bellevue,Available
+"Erlanger, KY",DNA Data Scientist,"1,00,152","1,10,152"," $1,05,152.00 ",United States of America,Data Scientist,Erlanger,Available
+"Atlanta, GA 30309",Data Scientist,,,,United States of America,Data Scientist,Atlanta,Missing
+"Roseville, MN",Sr. Data Analyst,"68,000","1,13,937"," $90,969.00 ",United States of America,Data Scientist,Roseville,Available
+"Irwindale, CA",Data Science Senior Specialist,"1,26,000","1,89,000"," $1,57,500.00 ",United States of America,Data Scientist,Irwindale,Available
+"Mountain View, CA","Data Scientist, Product, Play Data Science and Analytics","1,83,000","2,71,000"," $2,27,000.00 ",United States of America,Data Scientist,Mountain View,Available
+"San Diego, CA",Machine Learning Compiler Engineer,"1,58,400","2,37,600"," $1,98,000.00 ",United States of America,Data Scientist,San Diego,Available
+"Redmond, WA 98052",Data Scientist – AI/ML Recommendations & Personalization,"1,00,600","2,15,400"," $1,58,000.00 ",United States of America,Data Scientist,Redmond,Available
+"New York, NY",Senior Data Scientist,"90,000","1,50,000"," $1,20,000.00 ",United States of America,Data Scientist,New York,Available
+"Princeton, NJ",Senior Data Analyst,,,,United States of America,Data Scientist,Princeton,Missing
+"Bellevue, WA",Machine Learning Scientist III,"1,42,064","2,03,000"," $1,72,532.00 ",United States of America,Data Scientist,Bellevue,Available
+Remote,AI Engineer,,,,United States of America,Data Scientist,Remote,Missing
+"New York, NY",Business and Marketing Data Scientist II,"1,41,000","2,02,000"," $1,71,500.00 ",United States of America,Data Scientist,New York,Available
+"Arlington, VA 22201",Senior Data Scientist,"1,40,000","1,60,000"," $1,50,000.00 ",United States of America,Data Scientist,Arlington,Available
+"Menlo Park, CA",Senior Data Scientist- Product Fraud,"1,39,000","2,10,000"," $1,74,500.00 ",United States of America,Data Scientist,Menlo Park,Available
+Remote,Data Scientist - Information Technology Management,,,,United States of America,Data Scientist,Remote,Missing
+"Woodbridge, NJ 07095",Data Scientist,"1,09,000","1,40,000"," $1,24,500.00 ",United States of America,Data Scientist,Woodbridge,Available
+"Chantilly, VA",Data Scientist,,,,United States of America,Data Scientist,Chantilly,Missing
+"Vienna, VA 22180",Data Scientist,,,,United States of America,Data Scientist,Vienna,Missing
+"Austin, TX",Data Services Scientist,,,,United States of America,Data Scientist,Austin,Missing
+"Tempe, AZ",Sr. Data Analyst (SQL/Tableau/Databricks),"61,800","1,65,330"," $1,13,565.00 ",United States of America,Data Scientist,Tempe,Available
+"San Diego, CA 92101",Principal Data Scientist,"1,24,500","2,39,400"," $1,81,950.00 ",United States of America,Data Scientist,San Diego,Available
+"Miami, FL 33101",Statistical Analyst,,,,United States of America,Data Scientist,Miami,Missing
+"San Francisco, CA 94110","Senior Data Scientist, Algorithms - Primetime Pricing","1,48,000","1,85,000"," $1,66,500.00 ",United States of America,Data Scientist,San Francisco,Available
+"McLean, VA","Principal Associate, Data Science - Model Risk Office","1,58,600","1,81,000"," $1,69,800.00 ",United States of America,Data Scientist,McLean,Available
+"McLean, VA",Principal Data Scientist,"1,58,600","1,81,000"," $1,69,800.00 ",United States of America,Data Scientist,McLean,Available
+"New York, NY",Software Engineer - ML Data,"1,75,800","2,64,200"," $2,20,000.00 ",United States of America,Data Scientist,New York,Available
+"Dallas, TX",Senior Data & AI Engineer,"1,16,700","1,96,100"," $1,56,400.00 ",United States of America,Data Scientist,Dallas,Available
+"Atlanta, GA 30303",Senior Data Science Research Analyst - Strategy & Corporate Finance,,,,United States of America,Data Scientist,Atlanta,Missing
+"New York, NY","Manager, Data Science - LLM Customization Team",,,,United States of America,Data Scientist,New York,Missing
+"McLean, VA","Principal Associate, Data Science - Model Risk Office",,,,United States of America,Data Scientist,McLean,Missing
+"New York, NY","Senior Data Scientist, Algorithms - Primetime Pricing","1,48,000","1,85,000"," $1,66,500.00 ",United States of America,Data Scientist,New York,Available
+"Mettawa, IL 60045",Senior Website Data Analyst,,,,United States of America,Data Scientist,Mettawa,Missing
+"New York, NY 10011",AI Ops Engineer NY Local Only,35,40," $79,040.00 ",United States of America,Data Scientist,New York,Available
+"Bedford, MA 01730",Machine Learning Scientist,,,,United States of America,Data Scientist,Bedford,Missing
+"Dahlgren, VA",Data Scientist,,,,United States of America,Data Scientist,Dahlgren,Missing
+"Mountain View, CA 94043",AI/ML Researcher,90,101," $1,97,600.00 ",United States of America,Data Scientist,Mountain View,Available
+"Houston, TX 77005",Digital Health Data Scientist,,,,United States of America,Data Scientist,Houston,Missing
+"Atlanta, GA 30339",Sr Data Analyst - Labor,,,,United States of America,Data Scientist,Atlanta,Missing
+"Atlanta, GA",Senior Data Scientist,,,,United States of America,Data Scientist,Atlanta,Missing
+"St. Louis, MO 63132",Sr. Data Scientist,,,,United States of America,Data Scientist,St. Louis,Missing
+"Columbus, OH 43215",Lead Data Scientist,,,,United States of America,Data Scientist,Columbus,Missing
+"Wright-Patterson AFB, OH",Data Scientist (ES4),,,,United States of America,Data Scientist,Wright-Patterson AFB,Missing
+"Sunnyvale, CA 94086","Staff, Software Engineer – Conversational AI","1,43,000","2,86,000"," $2,14,500.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Seattle, WA","Applied Scientist - II, Everyday Essentials Science","1,36,000","2,23,400"," $1,79,700.00 ",United States of America,Data Scientist,Seattle,Available
+"Seattle, WA","Manager, Data Science, P2 Science, Data, and Insights","1,42,300","2,72,400"," $2,07,350.00 ",United States of America,Data Scientist,Seattle,Available
+"Atlanta, GA 30339","Sr Data Scientist, Pricing Analytics (OR/Optimization)",,,,United States of America,Data Scientist,Atlanta,Missing
+"Tempe, AZ","Senior Data Analyst, Business Intelligence","80,000","1,10,000"," $95,000.00 ",United States of America,Data Scientist,Tempe,Available
+"Seattle, WA","Backend Software Engineer, AI Safety, TikTok - Seattle","1,37,750","2,37,500"," $1,87,625.00 ",United States of America,Data Scientist,Seattle,Available
+"Charlotte, NC",Software Engineer for Training AI Data,30,50," $83,200.00 ",United States of America,Data Scientist,Charlotte,Available
+"New York, NY","Manager, Data Science - LLM Customization Team","2,11,000","2,40,800"," $2,25,900.00 ",United States of America,Data Scientist,New York,Available
+"Boston, MA",Principal Clinical Data Science,,,,United States of America,Data Scientist,Boston,Missing
+"San Francisco, CA",Senior Applied Scientist,"1,24,000","1,84,000"," $1,54,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"Green Bay, WI 54303",Senior Data Scientist,,,,United States of America,Data Scientist,Green Bay,Missing
+"Overland Park, KS","Sr. Manager, Decision Science",,,,United States of America,Data Scientist,Overland Park,Missing
+"New York, NY",Lead AI Scientist,"1,65,000","2,55,000"," $2,10,000.00 ",United States of America,Data Scientist,New York,Available
+"Cupertino, CA",Machine Learning Engineer,"1,75,800","2,64,200"," $2,20,000.00 ",United States of America,Data Scientist,Cupertino,Available
+"Minneapolis, MN","Senior AI Engineer, Quit for Life","1,18,650","1,58,200"," $1,38,425.00 ",United States of America,Data Scientist,Minneapolis,Available
+"Schaumburg, IL 60159",Optum Rx AI Capability Lead - Remote,"1,06,800","1,94,200"," $1,50,500.00 ",United States of America,Data Scientist,Schaumburg,Available
+"Scottsdale, AZ 85255","Executive Director, Head of Engineering - Data & AI","2,38,000","2,65,000"," $2,51,500.00 ",United States of America,Data Scientist,Scottsdale,Available
+Remote,Staff Software Engineer AI,"86,110","1,99,452"," $1,42,781.00 ",United States of America,Data Scientist,Remote,Available
+Remote,AI/ML Engineer - Senior,"1,80,000","2,00,000"," $1,90,000.00 ",United States of America,Data Scientist,Remote,Available
+"Mountain View, CA 94043",Senior Staff Business Data Analyst,,,,United States of America,Data Scientist,Mountain View,Missing
+"Chicago, IL 60661",Senior Finance Data Analyst,"85,000","1,25,000"," $1,05,000.00 ",United States of America,Data Scientist,Chicago,Available
+"Phoenix, AZ 85074",AI/ML Engineer - PHOENIX LOCAL CANDIDATES ONLY,60,65," $1,31,040.00 ",United States of America,Data Scientist,Phoenix,Available
+"Boston, MA","Principal Clinical Data Science Boston, Massachusetts",,,,United States of America,Data Scientist,Boston,Missing
+"Charlotte, NC","Senior AI Engineer, Quit for Life","1,18,650","1,58,200"," $1,38,425.00 ",United States of America,Data Scientist,Charlotte,Available
+"Seattle, WA 98105","Applied Machine Learning Research Engineer, Siri","1,66,600","2,96,300"," $2,31,450.00 ",United States of America,Data Scientist,Seattle,Available
+"New York, NY","Senior Manager, Data Science - LLM Customization Team","2,45,900","2,80,600"," $2,63,250.00 ",United States of America,Data Scientist,New York,Available
+"Cupertino, CA","Applied Machine Learning Research Engineer, Siri","1,75,800","3,12,200"," $2,44,000.00 ",United States of America,Data Scientist,Cupertino,Available
+"Hartford, CT 06112","Director, Data Science, Product Management","1,53,200","2,29,800"," $1,91,500.00 ",United States of America,Data Scientist,Hartford,Available
+"New York, NY",Statistician and project manager,,,,United States of America,Data Scientist,New York,Missing
+"Seattle, WA","Principal Partner GTM - Agentic AI, Data & AI - Partner GTM and Specialist Team","1,58,400","2,62,000"," $2,10,200.00 ",United States of America,Data Scientist,Seattle,Available
+"Sunnyvale, CA",Senior Software Engineer - AI Systems,"2,07,800","3,78,700"," $2,93,250.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Seattle, WA","Sr. GenAI GTM - Partner, Data & AI - Partner GTM and Specialist Team","1,33,200","2,20,200"," $1,76,700.00 ",United States of America,Data Scientist,Seattle,Available
+"San Francisco, CA","PRINCIPAL DATA SCIENTISTS, CUSTOMER ANALYTICS – ECOSYSTEM","1,88,885","2,33,400"," $2,11,143.00 ",United States of America,Data Scientist,San Francisco,Available
+United States,"Senior Staff Machine Learning Engineer, Communication & Connectivity","2,44,000","3,05,000"," $2,74,500.00 ",United States of America,Data Scientist,United States,Available
+"Seattle, WA","Applied Science Manager, Translation Services","1,65,500","2,86,000"," $2,25,750.00 ",United States of America,Data Scientist,Seattle,Available
+"Redmond, WA 98052",Principal Engineering Lead – Gaming AI,"1,63,000","3,31,200"," $2,47,100.00 ",United States of America,Data Scientist,Redmond,Available
+"Seattle, WA","Principal Partner GTM - Agentic AI, Data & AI - Partner GTM and Specialist Team","1,58,400","2,62,000"," $2,10,200.00 ",United States of America,Data Scientist,Seattle,Available
+"Boston, MA",Statistician,"73,000","76,000"," $74,500.00 ",United States of America,Data Scientist,Boston,Available
+"Seattle, WA","Sr GenAI GTM Specialist - Partner - Startups, Data & AI Partner GTM Team","1,33,200","2,20,200"," $1,76,700.00 ",United States of America,Data Scientist,Seattle,Available
+"Seattle, WA","Sr. GenAI GTM - Partner, Data & AI - Partner GTM and Specialist Team","1,33,200","2,20,200"," $1,76,700.00 ",United States of America,Data Scientist,Seattle,Available
+"Fort Worth, TX 76102",AI Platform Engineering Manager,,,,United States of America,Data Scientist,Fort Worth,Missing
+"Charlotte, NC",Lead Artificial Intelligence Solutions Consultant,,,,United States of America,Data Scientist,Charlotte,Missing
+"San Francisco, CA","Senior Software Development Engineer - AI Innovation & Vibe Coding, Amazon Music","1,51,300","2,61,500"," $2,06,400.00 ",United States of America,Data Scientist,San Francisco,Available
+"Seattle, WA","Applied Science Manager, Customer Behavior Analytics","1,65,500","2,86,000"," $2,25,750.00 ",United States of America,Data Scientist,Seattle,Available
+"Seattle, WA","Applied Science Manager, Customer Behavior Analytics","1,65,500","2,86,000"," $2,25,750.00 ",United States of America,Data Scientist,Seattle,Available
+United States,"Python Engineer - Python, C++, Machine learning",,,,United States of America,Data Scientist,United States,Missing
+"New York, NY",Data & Marketplace Integrity,"1,85,000","2,05,000"," $1,95,000.00 ",United States of America,Data Scientist,New York,Available
+"Princeton, NJ","Senior Manager, Analytical AI Forecasting and Predictive Solutions",,,,United States of America,Data Scientist,Princeton,Missing
+"Santa Clara, CA 95054",AI Value Methodology Lead,"1,97,800","3,46,200"," $2,72,000.00 ",United States of America,Data Scientist,Santa Clara,Available
+"San Francisco, CA","Engineering Manager, Mulitimodal (API)","3,25,000","4,05,000"," $3,65,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"San Francisco, CA 94104","PRINCIPAL DATA SCIENTISTS, CUSTOMER ANALYTICS – ECOSYSTEM","1,88,885","2,33,400"," $2,11,143.00 ",United States of America,Data Scientist,San Francisco,Available
+"Sunnyvale, CA","Software Engineer (Data), Ai & Data Platforms","1,43,100","2,14,500"," $1,78,800.00 ",United States of America,Data Scientist,Sunnyvale,Available
+"Albuquerque, NM 87101",Data Scientist SME,,,,United States of America,Data Scientist,Albuquerque,Missing
+"San Francisco, CA",Software Engineer (AI Agents),"1,80,000","2,10,000"," $1,95,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"Dallas, TX 75201",Compliance-Dallas-Associate-Machine Learning Engineer,,,,United States of America,Data Scientist,Dallas,Missing
+"Offutt AFB, NE",AI and ML Engineer,"99,000","2,25,000"," $1,62,000.00 ",United States of America,Data Scientist,Offutt AFB,Available
+"Mora, LA",Especialista en Ciencias de Datos,,,,United States of America,Data Scientist,Mora,Missing
+"New York, NY 10111",Head of AI Strategy,"2,50,000","3,50,000"," $3,00,000.00 ",United States of America,Data Scientist,New York,Available
+"Boston, MA",Senior Statistician,"95,000","1,02,000"," $98,500.00 ",United States of America,Data Scientist,Boston,Available
+"New York, NY",Managed Services - Applied AI Operations - Senior Associate,"77,000","2,02,000"," $1,39,500.00 ",United States of America,Data Scientist,New York,Available
+New Jersey,Lead Data Scientist,,,,United States of America,Data Scientist,New Jersey,Missing
+"Chesapeake, VA",Data Analytic Developer (Hybrid),,,,United States of America,Data Scientist,Chesapeake,Missing
+"San Jose, CA","Senior Director of Product, Consumer AI PayPal","2,09,000","3,59,150"," $2,84,075.00 ",United States of America,Data Scientist,San Jose,Available
+"Menlo Park, CA",Senior AI Engineer,"1,50,000","2,50,000"," $2,00,000.00 ",United States of America,Data Scientist,Menlo Park,Available
+"Mountain View, CA","2025 PhD / Masters Residency - ML, AI for Mental Health","1,09,000","1,50,000"," $1,29,500.00 ",United States of America,Data Scientist,Mountain View,Available
+"Boston, MA 02210",Senior Integration Engineer - AI and Hardware Accelerators,"1,33,650","2,20,680"," $1,77,165.00 ",United States of America,Data Scientist,Boston,Available
+Remote,Data Scientist, Up to   85    ,," $1,76,800.00 ",United States of America,Data Scientist,Remote,Available
+"San Jose, CA",Staff ML Engineer - Infrastructure,,,,United States of America,Data Scientist,San Jose,Missing
+United States,"Senior Manager, AI Enablement","1,28,700","1,96,200"," $1,62,450.00 ",United States of America,Data Scientist,United States,Available
+"San Francisco, CA",Staff AI Engineer,,,,United States of America,Data Scientist,San Francisco,Missing
+"Austin, TX 78701",AI/ML Engineer,50,60," $1,14,400.00 ",United States of America,Data Scientist,Austin,Available
+Remote,GenAI/LLM Engineer, Up to   95    ,," $1,97,600.00 ",United States of America,Data Scientist,Remote,Available
+"San Jose, CA 95110",2025 University Graduate - AI/ML Engineer,"85,500","1,63,500"," $1,24,500.00 ",United States of America,Data Scientist,San Jose,Available
+"San Francisco, CA",Senior Machine Learning Engineer - Membership,"1,98,000","2,20,000"," $2,09,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"San Francisco, CA","Senior Software Development Engineer - AI Innovation & Vibe Coding, Amazon Music","1,51,300","2,61,500"," $2,06,400.00 ",United States of America,Data Scientist,San Francisco,Available
+"Everett, WA",Senior Systems and Data Analyst,"1,18,150","1,59,850"," $1,39,000.00 ",United States of America,Data Scientist,Everett,Available
+"Atlanta, GA 30303","Senior Fellow, Scientific AI - North America",,,,United States of America,Data Scientist,Atlanta,Missing
+"Wellesley, MA 02481",Data Scientist,"1,02,856","1,50,000"," $1,26,428.00 ",United States of America,Data Scientist,Wellesley,Available
+"Woonsocket, RI 02895",Data Scientist,"1,04,645","1,40,000"," $1,22,323.00 ",United States of America,Data Scientist,Woonsocket,Available
+"Santa Clara, CA 95050","Senior System Software Engineer, AI Solutions Engineering","1,48,000","2,87,500"," $2,17,750.00 ",United States of America,Data Scientist,Santa Clara,Available
+"Woonsocket, RI 02895",Sr. Decision Scientist,"1,04,645","1,17,000"," $1,10,823.00 ",United States of America,Data Scientist,Woonsocket,Available
+"Charlotte, NC 28202",AI/ML Developer with Cybersecurity Exposure,,,,United States of America,Data Scientist,Charlotte,Missing
+"Alexandria, VA 22301",Senior Data Scientist,,,,United States of America,Data Scientist,Alexandria,Missing
+"Seattle, WA","Sr GenAI GTM Specialist - Partner - Startups, Data & AI Partner GTM Team","1,33,200","2,20,200"," $1,76,700.00 ",United States of America,Data Scientist,Seattle,Available
+"Chicago, IL 60606",Senior AI Software Engineer,"1,30,000","1,80,000"," $1,55,000.00 ",United States of America,Data Scientist,Chicago,Available
+"Arlington, VA",AI Enablement Lead,"1,25,000","1,35,000"," $1,30,000.00 ",United States of America,Data Scientist,Arlington,Available
+"Seattle, WA","Data Scientist, Devices Economic Value","1,25,500","2,12,800"," $1,69,150.00 ",United States of America,Data Scientist,Seattle,Available
+"Alameda, CA 94501",Machine Learning Architect,,,,United States of America,Data Scientist,Alameda,Missing
+Remote,"Senior AI Engineer - Full Stack, LLM Integration",,,,United States of America,Data Scientist,Remote,Missing
+"Washington, DC 20001",Data Scientist - TS/SCI with CI Poly Required,,,,United States of America,Data Scientist,Washington,Missing
+"Mount Pleasant, SC 29466",Junior AI Prompt Engineer – Healthcare AI Startup,25,45," $72,800.00 ",United States of America,Data Scientist,Mount Pleasant,Available
+"Honolulu, HI 96813",Research Statistician II,"   4,590 a month ",," $55,080.00 ",United States of America,Data Scientist,Honolulu,Available
+"Boise, ID 83702",Data Scientist III,,,,United States of America,Data Scientist,Boise,Missing
+"Mountain View, CA 94043",End-to-end autonomous driving with generative models,,,,United States of America,Data Scientist,Mountain View,Missing
+"Honolulu, HI 96813",Research Statistician I,"   4,243 a month ",," $50,916.00 ",United States of America,Data Scientist,Honolulu,Available
+"Kansas City, MO",Generative AI Software Engineer,,,,United States of America,Data Scientist,Kansas City,Missing
+"Washington, DC 20007","Senior Data Research Analyst - Center for Security and Emerging Technology (CSET), Walsh School of Foreign Service (SFS) - Georgetown University","1,03,723.00","2,02,778.93"," $1,53,251.00 ",United States of America,Data Scientist,Washington,Available
+"Washington, DC 20003",AI Software Engineer," From   130,000   ",," $1,30,000.00 ",United States of America,Data Scientist,Washington,Available
+"Dayton, OH 45433",Research Scientist Computational Fluid Dynamics and Statistical Physics Towards Composites Processing,,,,United States of America,Data Scientist,Dayton,Missing
+"New York, NY","Senior Software Engineer, Machine Learning, Privacy Sandbox","1,66,000","2,44,000"," $2,05,000.00 ",United States of America,Data Scientist,New York,Available
+"Tampa, FL 33610",Senior Fraud Data Analyst,"75,000","1,15,000"," $95,000.00 ",United States of America,Data Scientist,Tampa,Available
+"New York, NY 10013",Data Scientist,"1,11,966","1,70,000"," $1,40,983.00 ",United States of America,Data Scientist,New York,Available
+"Seattle, WA","System Engineer, AI Research, Prime Video - Content Understanding","1,16,300","2,01,200"," $1,58,750.00 ",United States of America,Data Scientist,Seattle,Available
+"Seattle, WA","System Development Engineer, AI Annotation, Prime Video - Content Understanding","1,16,300","2,01,200"," $1,58,750.00 ",United States of America,Data Scientist,Seattle,Available
+"McLean, VA 22101",Data Scientist,,,,United States of America,Data Scientist,McLean,Missing
+"Cupertino, CA",Machine Learning Engineer,"1,43,100","2,64,200"," $2,03,650.00 ",United States of America,Data Scientist,Cupertino,Available
+"Mountain View, CA 94043",Machine Learning: Prediction and Planning,,,,United States of America,Data Scientist,Mountain View,Missing
+"Boston, MA","Product Engineer, AI Innovation",,,,United States of America,Data Scientist,Boston,Missing
+"Santa Clara, CA",Principal Threat Researcher (Data Platform),"2,15,000",," $2,15,000.00 ",United States of America,Data Scientist,Santa Clara,Available
+"Mountain View, CA 94043",Senior Machine Learning Operations (MLOps) Engineer,,,,United States of America,Data Scientist,Mountain View,Missing
+"Woonsocket, RI 02895",Sr. Data Scientist,"1,04,645","1,62,000"," $1,33,323.00 ",United States of America,Data Scientist,Woonsocket,Available
+Remote,Data Scientist (REMOTE)- Veterans Affairs,"1,25,000","1,30,000",,United States of America,Data Scientist,Remote,Available
+"New York, NY 10012","Senior Manager, Data Science - GenAI Digital Assistant",,,,United States of America,Data Scientist,New York,Missing
+"Seattle, WA 98104","Senior Applied Scientist, Alexa Smart Home","1,50,400","2,60,000"," $2,05,200.00 ",United States of America,Data Scientist,Seattle,Available
+"San Francisco, CA 94105",Head of Robotics & Applied AI,"2,00,000","3,00,000"," $2,50,000.00 ",United States of America,Data Scientist,San Francisco,Available
+"Portland, OR 97205","Applied Scientist III, AWS Elemental MediaConvert",,,,United States of America,Data Scientist,Portland,Missing
+"Philadelphia, PA 19102",Software Engineer with ML/AI (not looking for Data Scientist),,,,United States of America,Data Scientist,Philadelphia,Missing
+"Raleigh, NC 27610",Artificial Intelligence Developer with Drools,,,,United States of America,Data Scientist,Raleigh,Missing
+"Mountain View, CA 94043","Senior Staff Machine Learning Engineer, Ads Technology (Hybrid)","1,59,000","3,24,000"," $2,41,500.00 ",United States of America,Data Scientist,Mountain View,Available
+"Fort Bragg, NC 28307","Artificial Intelligence Specialist - Multimedia - Fort Liberty, North Carolina","65,000","70,000"," $67,500.00 ",United States of America,Data Scientist,Fort Bragg,Available
+"Beaverton, OR 97008",AI Solutions Engineer,"1,10,000","1,70,000"," $1,40,000.00 ",United States of America,Data Scientist,Beaverton,Available
+"Newport Beach, CA 92660",Data Scientist with expertise in DOMO and Python,"85,000","1,20,000"," $1,02,500.00 ",United States of America,Data Scientist,Newport Beach,Available
+"Lenexa, KS",Machine Learning Engineer - AI Trainer, From   40    ,," $83,200.00 ",United States of America,Data Scientist,Lenexa,Available
+"Dallas, TX",RFP & Proposal Specialist (AI-Enabled),28,," $58,240.00 ",United States of America,Data Scientist,Dallas,Available
+New Jersey,FSP Principal Statistical Programmer (Remote),,,,United States of America,Data Scientist,New Jersey,Missing
+"Woodbridge, VA",Machine Learning Engineer - AI Trainer, From   40    ,," $83,200.00 ",United States of America,Data Scientist,Woodbridge,Available
+"Seattle, WA 98168",AI Solutions Engineer,"1,10,000","1,70,000"," $1,40,000.00 ",United States of America,Data Scientist,Seattle,Available
+"Santa Clara, CA",FinTech Product Analyst - AI Trainer, From   40    ,," $83,200.00 ",United States of America,Data Scientist,Santa Clara,Available
+"New York, NY 10065","Director, Data Science Platform | Data Science Platform","1,75,000","1,90,000"," $1,82,500.00 ",United States of America,Data Scientist,New York,Available
+"Ann Arbor, MI 48108",Senior Applied Scientist – Legal Tech,"1,40,000","2,60,000"," $2,00,000.00 ",United States of America,Data Scientist,Ann Arbor,Available
+Florida,"Lead Applied ML Engineer, Remote, Technology & Digital,M-F 8:30A to 4:30P","1,42,599.25","1,85,379.03"," $1,63,989.00 ",United States of America,Data Scientist,Florida,Available
+"Arlington, VA 22201","Director of Research, Autonomy & Trusted AI","1,48,850","2,69,075"," $2,08,963.00 ",United States of America,Data Scientist,Arlington,Available
+"San Francisco, CA 94102",Senior AI Engineer - AI Incubation,"1,65,000","2,30,000"," $1,97,500.00 ",United States of America,Data Scientist,San Francisco,Available
+"Cupertino, CA",FinTech Product Analyst - AI Trainer, From   40    ,," $83,200.00 ",United States of America,Data Scientist,Cupertino,Available
+"Belmont, CA",AI Engineer (Unable to consider OPT/CPT candidates),"1,40,000","1,70,000"," $1,55,000.00 ",United States of America,Data Scientist,Belmont,Available
+"San Francisco, CA 94105",Lead Machine Learning Engineer - ESPN+ Personalization,"1,72,300","2,46,400"," $2,09,350.00 ",United States of America,Data Scientist,San Francisco,Available
+"Tampa, FL 33601",VP - Regulatory Reporting Ld Analyst / Data Scientist - TAMPA/CHARLOTTE (Hybrid),"1,03,920","1,55,880"," $1,29,900.00 ",United States of America,Data Scientist,Tampa,Available
+"Malvern, PA","Machine Learning Engineer, Specialist",,,,United States of America,Data Scientist,Malvern,Missing
+"Charlotte, NC","Domain Architect- AI/ML, Senior Specialist",,,,United States of America,Data Scientist,Charlotte,Missing
+"Huntsville, AL 35806",Data Analytics Consultant,,,,United States of America,Data Scientist,Huntsville,Missing
+"Malvern, PA",Senior Gen-AI Technical Lead,,,,United States of America,Data Scientist,Malvern,Missing
+Remote,Systems and Data Analysts,"82,720.00",," $82,720.00 ",Canada,Risk Analyst,Remote,Available
+Remote,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Business Analyst,Remote,Available
+Ottawa,Business and Technical Analysts,"75,361.80",," $75,362.00 ",Canada,Data Analyst,Ottawa,Available
+Toronto,Systems and Data Analysts,"96,437.50",," $96,438.00 ",Canada,Data Engineer,Toronto,Available
+Niagara,Systems and Data Analysts,"1,22,772.00",," $1,22,772.00 ",Canada,Data Specialist,Niagara,Available
+Abbotsford,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Analyst,Abbotsford,Available
+Windsor,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,Windsor,Available
+Vancouver,Systems and Data Analysts,"99,424.00",," $99,424.00 ",Canada,Programmer,Vancouver,Available
+Toronto,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Developer,Toronto,Available
+Toronto,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Business Analyst,Toronto,Available
+Toronto,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Business Analyst,Toronto,Available
+Toronto,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Business Analyst,Toronto,Available
+Burlington,Senior Supply Chain Data Analysts,"94,872.50",," $94,873.00 ",Canada,Business Analyst,Burlington,Available
+Toronto,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,Toronto,Available
+Vancouver,Systems and Data Analysts,"1,08,045.60",," $1,08,046.00 ",Canada,Programmer,Vancouver,Available
+Vancouver,Senior Business Analysts,"1,09,207.50",," $1,09,208.00 ",Canada,Analyst,Vancouver,Available
+Toronto,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,Toronto,Available
+Toronto,Business Systems Analysts,"88,668.40",," $88,668.00 ",Canada,System Analyst,Toronto,Available
+Toronto,Systems and Data Analysts,"66,695.20",," $66,695.00 ",Canada,Analyst,Toronto,Available
+Calgary,Financial and Operational Analysts,"63,229.00",," $63,229.00 ",Canada,Analyst,Calgary,Available
+Vancouver,Senior Business Analysts,"75,250.00",," $75,250.00 ",Canada,Lead,Vancouver,Available
+Toronto,Senior Data Analysts,"93,602.50",," $93,603.00 ",Canada,Data Analyst,Toronto,Available
+Barrie,Systems and Data Analysts,"1,11,268.14",," $1,11,268.00 ",Canada,Lead,Barrie,Available
+Richmond Hill,Business Systems Analysts,"90,480.00",," $90,480.00 ",Canada,Data Analyst,Richmond Hill,Available
+Weyburn,Financial and Operational Analysts,"68,819.50",," $68,820.00 ",Canada,Analyst,Weyburn,Available
+Mississauga,Financial and Operational Analysts,"63,229.00",," $63,229.00 ",Canada,Analyst,Mississauga,Available
+Toronto,Business Systems Analysts,"1,06,700.00",," $1,06,700.00 ",Canada,Risk Analyst,Toronto,Available
+Banff,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Business Analyst,Banff,Available
+Toronto,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,Toronto,Available
+Banff,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Business Analyst,Banff,Available
+Toronto,Systems and Data Analysts,"82,720.00",," $82,720.00 ",Canada,Analyst,Toronto,Available
+Edmonton,Systems and Data Analysts,"64,352.24",," $64,352.00 ",Canada,System Analyst,Edmonton,Available
+Banff,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Business Analyst,Banff,Available
+Greater Toronto Area,Senior Business Analysts,"43,720.28",," $43,720.00 ",Canada,System Analyst,Greater Toronto Area,Available
+Banff,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Business Analyst,Banff,Available
+Remote,Financial and Operational Analysts,"51,100.00",," $51,100.00 ",Canada,Analyst,Remote,Available
+Remote,Financial and Operational Analysts,"51,100.00",," $51,100.00 ",Canada,Analyst,Remote,Available
+MontrÃ©al,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,MontrÃ©al,Available
+Vancouver,Senior Business Analysts,"1,07,033.50",," $1,07,034.00 ",Canada,Analyst,Vancouver,Available
+Remote,Financial and Operational Analysts,"51,100.00",," $51,100.00 ",Canada,Analyst,Remote,Available
+Remote in Beauceville,Financial and Operational Analysts,"51,100.00",," $51,100.00 ",Canada,Analyst,Remote in Beauceville,Available
+London,Senior Business Intelligence Analysts,"68,150.00",," $68,150.00 ",Canada,Analyst,London,Available
+Remote in Charlottetown,Financial and Operational Analysts,"51,100.00",," $51,100.00 ",Canada,Analyst,Remote in Charlottetown,Available
+Remote,Financial and Operational Analysts,"51,100.00",," $51,100.00 ",Canada,Analyst,Remote,Available
+Remote,Financial and Operational Analysts,"63,229.00",," $63,229.00 ",Canada,Analyst,Remote,Available
+Mississauga,Systems and Data Analysts,"82,720.00",," $82,720.00 ",Canada,System Analyst,Mississauga,Available
+Saint-Laurent,Business and Technical Analysts,"43,720.28",," $43,720.00 ",Canada,Data Analyst,Saint-Laurent,Available
+Vancouver,Systems and Data Analysts,"1,27,350.00",," $1,27,350.00 ",Canada,Data Analyst,Vancouver,Available
+Toronto,Systems and Data Analysts,"82,720.00",," $82,720.00 ",Canada,Analyst,Toronto,Available
+Calgary,Senior Data Analysts,"77,500.00",," $77,500.00 ",Canada,Data Analyst,Calgary,Available
+Fredericton,Senior Data Analysts,"77,500.00",," $77,500.00 ",Canada,Data Analyst,Fredericton,Available
+Remote,Business Systems Analysts,"88,668.40",," $88,668.00 ",Canada,Business Analyst,Remote,Available
+Bedford,Senior Data Analysts,"77,500.00",," $77,500.00 ",Canada,Analyst,Bedford,Available
+Toronto,Senior Business Analysts,"75,250.00",," $75,250.00 ",Canada,BI Analyst,Toronto,Available
+Toronto,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Analyst,Toronto,Available
+Remote in Toronto,Systems and Data Analysts,"49,400.00",," $49,400.00 ",Canada,Analyst,Remote in Toronto,Available
+Barrie,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Business Analyst,Barrie,Available
+Toronto,Senior Business Analysts,"75,250.00",," $75,250.00 ",Canada,BI Analyst,Toronto,Available
+Brampton,Senior Business Analysts,"75,250.00",," $75,250.00 ",Canada,Data Engineer,Brampton,Available
+Remote,Senior Business Intelligence Analysts,"1,16,400.00",," $1,16,400.00 ",Canada,Analyst,Remote,Available
+Toronto,Senior Business Analysts,"43,720.28",," $43,720.00 ",Canada,System Analyst,Toronto,Available
+Vaughan,Senior Data Analysts,"77,500.00",," $77,500.00 ",Canada,Data Analyst,Vaughan,Available
+Surrey,Senior Business Intelligence Analysts,"95,680.00",," $95,680.00 ",Canada,Data Specialist,Surrey,Available
+Red Lake,Senior Business Analysts,"75,250.00",," $75,250.00 ",Canada,Business Analyst,Red Lake,Available
+Toronto,Senior Business Analysts,"43,720.28",," $43,720.00 ",Canada,Data Associate,Toronto,Available
+Mississauga,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,Mississauga,Available
+Ottawa,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Analyst,Ottawa,Available
+Weyburn,Financial and Operational Analysts,"68,819.50",," $68,820.00 ",Canada,Analyst,Weyburn,Available
+Winnipeg,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Analyst,Winnipeg,Available
+Toronto,Business Systems Analysts,"1,05,000.00",," $1,05,000.00 ",Canada,System Analyst,Toronto,Available
+Toronto,Senior Supply Chain Data Analysts,"1,12,320.00",," $1,12,320.00 ",Canada,Risk Analyst,Toronto,Available
+Abbotsford,Business and Technical Analysts,"81,364.83",," $81,365.00 ",Canada,Analyst,Abbotsford,Available
+Laval,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Analyst,Laval,Available
+Surrey,Senior Business Intelligence Analysts,"95,680.00",," $95,680.00 ",Canada,Data Specialist,Surrey,Available
+Laval,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Analyst,Laval,Available
+Mississauga,Business and Technical Analysts,"75,361.80",," $75,362.00 ",Canada,Business Analyst,Mississauga,Available
+Toronto,Business and Marketing Analysts,"52,731.78",," $52,732.00 ",Canada,Analyst,Toronto,Available
+MontrÃ©al,Financial and Operational Analysts,"1,00,000.00",," $1,00,000.00 ",Canada,Analyst,MontrÃ©al,Available
+Halifax,Business Systems Analysts,"76,510.59",," $76,511.00 ",Canada,Data Officer,Halifax,Available
+Toronto,Business Systems Analysts,"88,668.40",," $88,668.00 ",Canada,System Analyst,Toronto,Available
+Dieppe,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Manager,Dieppe,Available
+Vernon,Senior Business Intelligence Analysts,"92,750.00",," $92,750.00 ",Canada,Data Specialist,Vernon,Available
+Dorval,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Analyst,Dorval,Available
+Bolton,Senior Business Analysts,"1,00,000.00",," $1,00,000.00 ",Canada,Business Analyst,Bolton,Available
+London,Senior Business Analysts,"93,150.00",," $93,150.00 ",Canada,Business Analyst,London,Available
+Sherbrooke,Senior Business Intelligence Analysts,"78,150.00",," $78,150.00 ",Canada,Business Analyst,Sherbrooke,Available
+Toronto,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Analyst,Toronto,Available
+Edmonton,Senior Supply Chain Data Analysts,"1,18,372.80",," $1,18,373.00 ",Canada,Analyst,Edmonton,Available
+Toronto,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Analyst,Toronto,Available
+Brampton,Business and Marketing Analysts,"79,040.00",," $79,040.00 ",Canada,Analyst,Brampton,Available
+Victoria,Business and Marketing Analysts,"76,500.00",," $76,500.00 ",Canada,Analyst,Victoria,Available
+Mississauga,Business Systems Analysts,"59,072.00",," $59,072.00 ",Canada,System Analyst,Mississauga,Available
+Vancouver,Financial and Operational Analysts,"63,229.00",," $63,229.00 ",Canada,Analyst,Vancouver,Available
+Calgary,Business and Marketing Analysts,"76,000.00",," $76,000.00 ",Canada,Business Analyst,Calgary,Available
+Vancouver,Senior Business Analysts,"1,22,300.00",," $1,22,300.00 ",Canada,Analyst,Vancouver,Available
+Calgary,Business Systems Analysts,"98,176.00",," $98,176.00 ",Canada,System Analyst,Calgary,Available
+Edmonton,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Manager,Edmonton,Available
+North York,Senior Business Intelligence Analysts,"60,000.00",," $60,000.00 ",Canada,Analyst,North York,Available
+Oakville,Senior Supply Chain Data Analysts,"77,750.00",," $77,750.00 ",Canada,Analyst,Oakville,Available
+Richmond,Business Systems Analysts,"77,500.00",," $77,500.00 ",Canada,System Analyst,Richmond,Available
